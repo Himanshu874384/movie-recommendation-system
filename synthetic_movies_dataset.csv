@@ -1,0 +1,1001 @@
+movie_id,title,genre,director,language,release_year,rating,duration_min,popularity
+1,Movie_1,"Action, Fantasy",Arjun Gupta,English,2017,4.4,80,8158
+2,Movie_2,"Drama, Adventure",Arjun Gupta,Spanish,2005,8.3,100,898
+3,Movie_3,"Thriller, Action, Romance",Priya Singh,French,2015,4.6,169,5124
+4,Movie_4,"Drama, Comedy, Romance",Raj Mehta,English,2006,7.0,89,7713
+5,Movie_5,Thriller,Priya Singh,English,2018,7.4,171,9595
+6,Movie_6,Fantasy,Raj Mehta,French,2015,9.4,111,9014
+7,Movie_7,"Action, Thriller, Romance",Raj Mehta,Hindi,2007,6.4,176,3588
+8,Movie_8,"Comedy, Romance, Adventure",Rahul Verma,French,2018,8.9,121,3334
+9,Movie_9,"Romance, Sci-Fi",Priya Singh,Hindi,2004,6.5,137,6354
+10,Movie_10,"Drama, Comedy",Priya Singh,Hindi,2023,7.9,146,4589
+11,Movie_11,Drama,Priya Singh,French,2023,4.0,136,739
+12,Movie_12,"Sci-Fi, Comedy",Neha Kapoor,Hindi,2006,6.4,99,4369
+13,Movie_13,Action,Rahul Verma,French,2012,9.8,141,9282
+14,Movie_14,"Adventure, Fantasy",Neha Kapoor,Spanish,2009,2.5,110,6159
+15,Movie_15,"Drama, Romance",Ankit Sharma,English,2005,1.2,115,839
+16,Movie_16,"Romance, Action, Adventure",Ankit Sharma,English,2005,4.2,176,2563
+17,Movie_17,"Adventure, Romance",Ankit Sharma,French,2014,4.3,174,6360
+18,Movie_18,"Thriller, Adventure",Rahul Verma,Spanish,2007,5.7,92,1271
+19,Movie_19,"Drama, Comedy",Neha Kapoor,English,2002,6.5,127,2266
+20,Movie_20,Drama,Neha Kapoor,English,2005,1.3,102,3974
+21,Movie_21,Fantasy,Raj Mehta,French,2000,3.8,177,8614
+22,Movie_22,"Romance, Drama, Action",Raj Mehta,Hindi,2000,5.5,152,674
+23,Movie_23,"Action, Adventure",Ankit Sharma,French,2001,4.1,107,449
+24,Movie_24,Thriller,Raj Mehta,English,2009,2.4,155,5289
+25,Movie_25,Action,Raj Mehta,Hindi,2002,8.3,178,9473
+26,Movie_26,"Comedy, Action, Drama",Priya Singh,French,2024,7.9,85,2742
+27,Movie_27,"Thriller, Drama",Raj Mehta,French,2014,8.9,88,2167
+28,Movie_28,Adventure,Rahul Verma,Hindi,2024,3.5,137,2315
+29,Movie_29,Sci-Fi,Neha Kapoor,Spanish,2016,6.7,178,1750
+30,Movie_30,Sci-Fi,Rahul Verma,Hindi,2014,8.1,117,2562
+31,Movie_31,"Romance, Sci-Fi",Neha Kapoor,Spanish,2009,3.0,116,947
+32,Movie_32,Action,Raj Mehta,Spanish,2008,5.2,107,7222
+33,Movie_33,Drama,Rahul Verma,French,2017,4.9,171,2955
+34,Movie_34,"Comedy, Action",Ankit Sharma,Spanish,2023,2.8,158,878
+35,Movie_35,"Comedy, Action",Neha Kapoor,French,2020,2.3,122,8725
+36,Movie_36,Drama,Priya Singh,French,2021,4.4,99,6630
+37,Movie_37,"Drama, Action, Thriller",Ankit Sharma,French,2006,8.7,153,8231
+38,Movie_38,"Action, Fantasy, Adventure",Neha Kapoor,Spanish,2017,8.8,114,4911
+39,Movie_39,"Drama, Action, Comedy",Arjun Gupta,French,2010,5.6,155,9072
+40,Movie_40,"Romance, Sci-Fi",Arjun Gupta,Hindi,2022,6.5,140,7047
+41,Movie_41,"Comedy, Thriller",Arjun Gupta,Hindi,2016,9.2,110,9288
+42,Movie_42,Fantasy,Ankit Sharma,Hindi,2023,3.1,140,6269
+43,Movie_43,"Fantasy, Thriller, Drama",Raj Mehta,English,2000,2.4,94,9933
+44,Movie_44,Fantasy,Raj Mehta,Hindi,2021,8.7,121,3178
+45,Movie_45,"Sci-Fi, Action",Raj Mehta,Hindi,2007,2.8,122,6869
+46,Movie_46,"Sci-Fi, Fantasy, Romance",Ankit Sharma,Hindi,2004,6.4,177,3874
+47,Movie_47,"Thriller, Drama, Romance",Raj Mehta,Spanish,2025,7.9,141,8055
+48,Movie_48,"Sci-Fi, Adventure, Drama",Rahul Verma,Spanish,2021,2.7,119,4267
+49,Movie_49,"Adventure, Fantasy, Comedy",Ankit Sharma,Hindi,2013,3.6,151,7370
+50,Movie_50,"Fantasy, Action, Sci-Fi",Raj Mehta,Hindi,2012,6.0,156,1847
+51,Movie_51,"Romance, Sci-Fi",Rahul Verma,Hindi,2016,3.2,140,4673
+52,Movie_52,"Adventure, Comedy, Romance",Neha Kapoor,Hindi,2021,2.1,121,9746
+53,Movie_53,"Thriller, Sci-Fi",Ankit Sharma,English,2006,8.1,103,4353
+54,Movie_54,"Thriller, Action",Priya Singh,Spanish,2000,5.1,159,2153
+55,Movie_55,"Adventure, Romance",Priya Singh,Hindi,2022,7.2,99,994
+56,Movie_56,"Fantasy, Action, Romance",Arjun Gupta,Hindi,2021,7.3,166,2220
+57,Movie_57,"Drama, Sci-Fi",Ankit Sharma,Spanish,2006,3.6,169,5348
+58,Movie_58,Adventure,Ankit Sharma,Spanish,2015,3.0,123,867
+59,Movie_59,"Comedy, Drama, Sci-Fi",Rahul Verma,Hindi,2003,7.9,86,4709
+60,Movie_60,"Comedy, Drama, Fantasy",Rahul Verma,Hindi,2022,4.3,159,1945
+61,Movie_61,Action,Ankit Sharma,Hindi,2007,7.0,159,3974
+62,Movie_62,"Action, Fantasy",Arjun Gupta,Hindi,2017,1.1,94,1903
+63,Movie_63,Drama,Priya Singh,French,2025,9.6,147,2030
+64,Movie_64,Action,Priya Singh,Spanish,2013,6.7,153,841
+65,Movie_65,Sci-Fi,Priya Singh,French,2019,6.4,135,4187
+66,Movie_66,Action,Raj Mehta,French,2001,1.6,100,3115
+67,Movie_67,"Drama, Fantasy",Priya Singh,French,2025,5.3,161,5835
+68,Movie_68,Sci-Fi,Ankit Sharma,Spanish,2009,7.7,94,8688
+69,Movie_69,"Comedy, Thriller",Arjun Gupta,Hindi,2016,2.0,148,3195
+70,Movie_70,Fantasy,Priya Singh,French,2006,9.6,116,3623
+71,Movie_71,Thriller,Ankit Sharma,English,2023,3.2,80,4285
+72,Movie_72,"Comedy, Adventure",Ankit Sharma,Spanish,2009,8.3,107,5525
+73,Movie_73,"Drama, Fantasy, Adventure",Neha Kapoor,Spanish,2001,7.9,93,5037
+74,Movie_74,Fantasy,Arjun Gupta,French,2012,8.9,103,389
+75,Movie_75,"Romance, Fantasy",Arjun Gupta,English,2009,6.8,161,6382
+76,Movie_76,"Comedy, Adventure, Sci-Fi",Rahul Verma,French,2001,1.2,82,9229
+77,Movie_77,"Fantasy, Action, Comedy",Raj Mehta,English,2025,8.8,97,1265
+78,Movie_78,"Sci-Fi, Thriller",Ankit Sharma,French,2023,5.7,141,2904
+79,Movie_79,"Thriller, Action",Rahul Verma,Spanish,2018,2.4,108,5018
+80,Movie_80,"Comedy, Drama, Thriller",Raj Mehta,Hindi,2007,5.9,130,8676
+81,Movie_81,"Adventure, Action, Comedy",Neha Kapoor,Hindi,2011,1.9,94,7724
+82,Movie_82,Fantasy,Rahul Verma,French,2006,4.6,174,8529
+83,Movie_83,Romance,Rahul Verma,French,2004,4.8,120,5988
+84,Movie_84,Thriller,Arjun Gupta,Hindi,2002,7.8,101,2231
+85,Movie_85,Drama,Arjun Gupta,English,2025,5.3,177,3649
+86,Movie_86,"Romance, Adventure",Arjun Gupta,Hindi,2000,8.7,173,3586
+87,Movie_87,"Romance, Action, Sci-Fi",Arjun Gupta,Spanish,2009,3.2,107,2080
+88,Movie_88,Action,Arjun Gupta,English,2001,3.3,157,9150
+89,Movie_89,"Sci-Fi, Adventure",Rahul Verma,French,2013,9.3,111,6466
+90,Movie_90,"Thriller, Adventure, Drama",Raj Mehta,English,2019,3.7,143,8441
+91,Movie_91,Action,Neha Kapoor,Hindi,2022,1.5,161,4645
+92,Movie_92,Thriller,Raj Mehta,Hindi,2019,3.9,156,1736
+93,Movie_93,"Sci-Fi, Comedy, Action",Priya Singh,Hindi,2008,10.0,90,5601
+94,Movie_94,Thriller,Priya Singh,French,2018,2.7,116,6545
+95,Movie_95,"Romance, Drama",Arjun Gupta,Spanish,2006,3.5,128,7966
+96,Movie_96,"Drama, Romance",Neha Kapoor,Hindi,2021,2.6,122,7612
+97,Movie_97,"Adventure, Romance, Action",Priya Singh,English,2002,4.1,101,9632
+98,Movie_98,Adventure,Arjun Gupta,Spanish,2024,3.2,138,7646
+99,Movie_99,"Adventure, Romance",Neha Kapoor,Spanish,2000,1.7,109,379
+100,Movie_100,"Fantasy, Comedy, Sci-Fi",Rahul Verma,Hindi,2023,4.2,168,1214
+101,Movie_101,Sci-Fi,Raj Mehta,French,2009,9.8,107,9583
+102,Movie_102,Comedy,Arjun Gupta,Hindi,2009,7.3,145,9220
+103,Movie_103,"Adventure, Action",Priya Singh,Spanish,2021,8.5,177,7739
+104,Movie_104,Thriller,Arjun Gupta,English,2005,1.7,92,9216
+105,Movie_105,Fantasy,Raj Mehta,Hindi,2023,2.4,156,5259
+106,Movie_106,"Sci-Fi, Romance",Ankit Sharma,French,2014,7.5,116,8754
+107,Movie_107,"Comedy, Fantasy, Action",Rahul Verma,French,2010,7.4,179,3895
+108,Movie_108,"Adventure, Sci-Fi",Raj Mehta,English,2021,1.8,90,2609
+109,Movie_109,"Drama, Romance, Fantasy",Ankit Sharma,French,2025,6.9,161,2852
+110,Movie_110,Adventure,Neha Kapoor,French,2025,3.3,167,6189
+111,Movie_111,"Fantasy, Adventure",Priya Singh,Spanish,2003,3.9,146,4805
+112,Movie_112,Thriller,Neha Kapoor,French,2020,9.8,86,1101
+113,Movie_113,"Drama, Action",Rahul Verma,Hindi,2023,8.4,138,7752
+114,Movie_114,Romance,Arjun Gupta,Spanish,2014,9.0,108,4474
+115,Movie_115,"Adventure, Sci-Fi",Rahul Verma,Spanish,2015,5.4,111,6695
+116,Movie_116,"Action, Adventure, Fantasy",Arjun Gupta,Spanish,2018,1.2,110,9069
+117,Movie_117,Action,Ankit Sharma,English,2021,5.7,125,782
+118,Movie_118,"Sci-Fi, Romance",Priya Singh,Spanish,2014,8.1,147,9124
+119,Movie_119,"Thriller, Romance, Adventure",Rahul Verma,French,2017,7.3,120,8018
+120,Movie_120,"Adventure, Action",Neha Kapoor,English,2011,4.6,150,7373
+121,Movie_121,Fantasy,Rahul Verma,French,2007,9.4,93,3966
+122,Movie_122,"Fantasy, Adventure, Drama",Ankit Sharma,Spanish,2015,7.8,97,7325
+123,Movie_123,"Thriller, Adventure, Sci-Fi",Arjun Gupta,Spanish,2015,8.3,133,3061
+124,Movie_124,"Adventure, Thriller, Fantasy",Rahul Verma,Spanish,2002,4.0,83,4707
+125,Movie_125,Action,Arjun Gupta,Hindi,2016,3.8,119,7895
+126,Movie_126,Romance,Rahul Verma,Spanish,2015,4.4,172,9948
+127,Movie_127,"Fantasy, Adventure",Rahul Verma,French,2000,1.1,90,6179
+128,Movie_128,"Fantasy, Romance, Drama",Neha Kapoor,English,2024,6.4,125,7196
+129,Movie_129,"Comedy, Adventure, Romance",Priya Singh,English,2013,6.5,110,9422
+130,Movie_130,"Action, Fantasy",Priya Singh,English,2004,1.7,110,6227
+131,Movie_131,Action,Priya Singh,English,2014,7.7,150,7150
+132,Movie_132,Romance,Neha Kapoor,Hindi,2012,8.7,178,6645
+133,Movie_133,Action,Rahul Verma,French,2018,1.2,163,367
+134,Movie_134,"Comedy, Adventure, Fantasy",Ankit Sharma,Hindi,2016,7.2,172,1613
+135,Movie_135,"Drama, Action",Ankit Sharma,English,2004,6.9,137,9224
+136,Movie_136,"Thriller, Romance",Ankit Sharma,English,2009,2.5,90,3525
+137,Movie_137,"Fantasy, Comedy",Rahul Verma,English,2005,3.5,163,3671
+138,Movie_138,"Action, Adventure, Drama",Ankit Sharma,English,2004,8.7,102,3180
+139,Movie_139,"Adventure, Sci-Fi, Drama",Neha Kapoor,Hindi,2014,8.0,89,3601
+140,Movie_140,"Fantasy, Sci-Fi, Comedy",Arjun Gupta,Spanish,2013,7.4,177,1306
+141,Movie_141,"Action, Comedy, Adventure",Ankit Sharma,French,2005,4.9,110,7555
+142,Movie_142,Fantasy,Ankit Sharma,Spanish,2020,7.3,92,358
+143,Movie_143,"Romance, Fantasy, Adventure",Priya Singh,Spanish,2016,8.9,154,9018
+144,Movie_144,"Drama, Fantasy, Romance",Priya Singh,French,2013,2.2,120,878
+145,Movie_145,Sci-Fi,Ankit Sharma,French,2013,2.8,108,8003
+146,Movie_146,"Fantasy, Adventure, Action",Rahul Verma,French,2021,9.4,170,6991
+147,Movie_147,"Thriller, Drama, Adventure",Rahul Verma,French,2024,2.2,113,867
+148,Movie_148,Sci-Fi,Arjun Gupta,French,2011,2.1,152,8871
+149,Movie_149,Fantasy,Raj Mehta,Spanish,2007,6.7,144,8135
+150,Movie_150,Adventure,Rahul Verma,English,2000,9.8,113,944
+151,Movie_151,"Drama, Romance, Fantasy",Priya Singh,Spanish,2016,8.2,91,1843
+152,Movie_152,"Comedy, Drama",Rahul Verma,English,2021,9.4,158,8952
+153,Movie_153,"Fantasy, Thriller",Ankit Sharma,Spanish,2005,5.5,156,1469
+154,Movie_154,Sci-Fi,Arjun Gupta,English,2001,2.3,128,7878
+155,Movie_155,"Adventure, Action",Rahul Verma,French,2005,8.2,132,3588
+156,Movie_156,Adventure,Raj Mehta,Hindi,2015,9.1,135,4090
+157,Movie_157,Sci-Fi,Priya Singh,French,2019,5.9,130,4370
+158,Movie_158,Drama,Rahul Verma,French,2020,3.9,84,2165
+159,Movie_159,Romance,Rahul Verma,French,2019,7.7,180,5878
+160,Movie_160,Drama,Arjun Gupta,Spanish,2025,1.8,179,2877
+161,Movie_161,"Thriller, Adventure, Comedy",Raj Mehta,French,2012,4.0,170,9501
+162,Movie_162,"Drama, Sci-Fi, Adventure",Neha Kapoor,English,2010,2.1,115,9938
+163,Movie_163,"Romance, Action",Raj Mehta,English,2023,9.4,88,5643
+164,Movie_164,"Adventure, Thriller, Romance",Priya Singh,French,2016,3.3,126,7879
+165,Movie_165,Adventure,Neha Kapoor,French,2001,6.1,143,2983
+166,Movie_166,"Romance, Thriller",Ankit Sharma,English,2020,8.8,143,9040
+167,Movie_167,"Thriller, Fantasy",Arjun Gupta,Spanish,2008,5.0,93,8446
+168,Movie_168,"Drama, Thriller",Ankit Sharma,Hindi,2000,7.9,154,9291
+169,Movie_169,Drama,Neha Kapoor,French,2019,2.8,147,9107
+170,Movie_170,"Adventure, Comedy, Fantasy",Neha Kapoor,Spanish,2016,7.8,167,1160
+171,Movie_171,"Thriller, Sci-Fi, Drama",Rahul Verma,English,2020,7.9,152,5355
+172,Movie_172,"Sci-Fi, Fantasy",Neha Kapoor,French,2018,8.0,127,1870
+173,Movie_173,"Drama, Sci-Fi",Rahul Verma,French,2025,6.0,171,9962
+174,Movie_174,"Comedy, Romance",Raj Mehta,Hindi,2000,8.3,109,5661
+175,Movie_175,Drama,Arjun Gupta,English,2003,7.7,176,3794
+176,Movie_176,"Adventure, Romance",Neha Kapoor,French,2025,6.4,117,607
+177,Movie_177,"Sci-Fi, Comedy, Fantasy",Priya Singh,Spanish,2017,8.4,172,2029
+178,Movie_178,"Action, Adventure, Comedy",Neha Kapoor,English,2018,5.4,169,2905
+179,Movie_179,Adventure,Priya Singh,French,2008,1.7,134,80
+180,Movie_180,"Thriller, Romance",Raj Mehta,French,2013,7.0,154,5478
+181,Movie_181,Sci-Fi,Neha Kapoor,Spanish,2012,1.4,103,6038
+182,Movie_182,Thriller,Arjun Gupta,French,2002,2.3,135,2992
+183,Movie_183,Romance,Arjun Gupta,Hindi,2012,6.7,145,2753
+184,Movie_184,"Adventure, Fantasy, Action",Neha Kapoor,Hindi,2007,5.5,80,2196
+185,Movie_185,Adventure,Rahul Verma,French,2019,1.8,82,6828
+186,Movie_186,"Comedy, Action",Rahul Verma,English,2011,8.6,121,9124
+187,Movie_187,"Fantasy, Action",Ankit Sharma,Spanish,2018,3.4,166,2748
+188,Movie_188,Adventure,Rahul Verma,French,2005,8.1,103,4728
+189,Movie_189,"Thriller, Drama",Priya Singh,Hindi,2008,1.2,168,3006
+190,Movie_190,"Romance, Fantasy, Drama",Raj Mehta,French,2024,1.5,154,7097
+191,Movie_191,"Thriller, Action",Ankit Sharma,Spanish,2024,6.3,167,759
+192,Movie_192,"Fantasy, Adventure, Action",Neha Kapoor,Hindi,2023,6.7,177,6329
+193,Movie_193,"Comedy, Drama, Action",Arjun Gupta,Spanish,2006,5.2,180,3753
+194,Movie_194,"Action, Romance",Rahul Verma,French,2010,5.8,177,3949
+195,Movie_195,Thriller,Priya Singh,Hindi,2014,3.1,143,4007
+196,Movie_196,"Adventure, Comedy, Thriller",Ankit Sharma,English,2019,2.8,90,6688
+197,Movie_197,"Romance, Adventure",Rahul Verma,Spanish,2004,4.1,84,6590
+198,Movie_198,"Romance, Adventure, Drama",Arjun Gupta,English,2013,4.7,99,2205
+199,Movie_199,"Action, Sci-Fi, Thriller",Priya Singh,French,2014,9.7,123,242
+200,Movie_200,"Sci-Fi, Drama, Action",Neha Kapoor,Hindi,2021,7.8,92,4614
+201,Movie_201,"Drama, Romance",Priya Singh,English,2002,5.4,141,7109
+202,Movie_202,Comedy,Rahul Verma,Hindi,2015,6.4,87,9082
+203,Movie_203,Comedy,Rahul Verma,English,2013,3.8,127,7676
+204,Movie_204,Action,Priya Singh,English,2009,9.7,126,7984
+205,Movie_205,"Drama, Fantasy",Raj Mehta,Hindi,2023,1.3,91,8434
+206,Movie_206,"Thriller, Fantasy, Comedy",Priya Singh,English,2017,2.9,176,9294
+207,Movie_207,"Sci-Fi, Action",Ankit Sharma,English,2023,3.5,135,2451
+208,Movie_208,"Thriller, Comedy",Priya Singh,French,2022,2.9,101,1167
+209,Movie_209,"Drama, Sci-Fi",Ankit Sharma,Hindi,2010,2.3,166,5789
+210,Movie_210,"Action, Thriller, Romance",Raj Mehta,French,2018,4.0,152,6906
+211,Movie_211,"Thriller, Comedy, Drama",Rahul Verma,English,2022,7.9,124,3428
+212,Movie_212,"Sci-Fi, Comedy, Adventure",Raj Mehta,French,2023,4.0,97,7529
+213,Movie_213,"Sci-Fi, Comedy",Arjun Gupta,Hindi,2018,2.8,122,8624
+214,Movie_214,Thriller,Arjun Gupta,Hindi,2014,2.4,88,6093
+215,Movie_215,"Drama, Sci-Fi",Raj Mehta,French,2013,3.4,81,1327
+216,Movie_216,Sci-Fi,Arjun Gupta,French,2019,2.2,96,4710
+217,Movie_217,"Comedy, Fantasy",Raj Mehta,Spanish,2019,4.3,177,4432
+218,Movie_218,"Action, Adventure",Neha Kapoor,French,2025,4.4,132,6112
+219,Movie_219,"Action, Comedy",Ankit Sharma,Hindi,2013,3.1,92,8495
+220,Movie_220,"Thriller, Fantasy",Neha Kapoor,Spanish,2011,2.0,153,8758
+221,Movie_221,"Drama, Fantasy, Adventure",Raj Mehta,Spanish,2024,3.2,130,3610
+222,Movie_222,"Adventure, Comedy, Fantasy",Priya Singh,English,2017,9.4,139,3386
+223,Movie_223,"Sci-Fi, Action",Neha Kapoor,English,2010,2.0,102,2542
+224,Movie_224,Comedy,Raj Mehta,English,2007,4.7,141,7464
+225,Movie_225,"Thriller, Sci-Fi",Ankit Sharma,French,2002,1.6,150,7959
+226,Movie_226,"Thriller, Action",Ankit Sharma,English,2020,8.6,99,6326
+227,Movie_227,"Romance, Action",Arjun Gupta,Spanish,2021,7.6,96,421
+228,Movie_228,Romance,Ankit Sharma,Spanish,2025,2.1,153,9272
+229,Movie_229,"Fantasy, Comedy, Thriller",Arjun Gupta,Spanish,2020,9.1,174,5896
+230,Movie_230,Romance,Raj Mehta,Spanish,2015,6.7,119,5388
+231,Movie_231,"Drama, Thriller",Rahul Verma,Spanish,2015,6.3,134,7764
+232,Movie_232,"Romance, Drama",Arjun Gupta,Hindi,2004,2.8,111,7141
+233,Movie_233,"Drama, Thriller, Adventure",Rahul Verma,French,2006,5.3,83,9082
+234,Movie_234,Sci-Fi,Neha Kapoor,Hindi,2017,8.6,88,7644
+235,Movie_235,"Sci-Fi, Comedy, Drama",Neha Kapoor,French,2013,5.5,116,4224
+236,Movie_236,"Action, Romance",Rahul Verma,Spanish,2010,3.5,122,9899
+237,Movie_237,"Romance, Adventure, Sci-Fi",Arjun Gupta,English,2005,3.4,111,7794
+238,Movie_238,Fantasy,Raj Mehta,French,2005,8.9,94,8577
+239,Movie_239,Fantasy,Priya Singh,French,2009,1.8,86,7209
+240,Movie_240,"Action, Comedy",Ankit Sharma,French,2004,1.5,170,9280
+241,Movie_241,Fantasy,Priya Singh,French,2015,4.1,112,8801
+242,Movie_242,"Fantasy, Romance",Rahul Verma,English,2018,9.2,108,7556
+243,Movie_243,"Drama, Adventure, Fantasy",Rahul Verma,Spanish,2022,2.0,113,6694
+244,Movie_244,"Adventure, Sci-Fi, Action",Neha Kapoor,Spanish,2019,4.3,175,5199
+245,Movie_245,"Romance, Adventure",Rahul Verma,English,2022,5.1,168,4610
+246,Movie_246,"Comedy, Thriller",Ankit Sharma,English,2018,5.3,171,3178
+247,Movie_247,Action,Neha Kapoor,English,2015,6.5,124,3850
+248,Movie_248,Sci-Fi,Priya Singh,French,2018,7.1,89,8757
+249,Movie_249,Thriller,Raj Mehta,French,2021,5.6,136,8148
+250,Movie_250,Thriller,Ankit Sharma,Hindi,2001,5.1,114,3795
+251,Movie_251,"Adventure, Romance, Fantasy",Priya Singh,Spanish,2020,2.7,170,9518
+252,Movie_252,Thriller,Rahul Verma,Spanish,2005,7.3,113,897
+253,Movie_253,"Action, Sci-Fi",Priya Singh,Spanish,2013,6.9,175,1546
+254,Movie_254,Comedy,Neha Kapoor,Hindi,2022,8.9,158,2438
+255,Movie_255,"Adventure, Romance, Drama",Arjun Gupta,French,2019,5.5,136,9627
+256,Movie_256,Comedy,Ankit Sharma,Spanish,2017,3.4,172,196
+257,Movie_257,"Romance, Action, Fantasy",Neha Kapoor,Hindi,2006,4.9,112,8
+258,Movie_258,Thriller,Ankit Sharma,Spanish,2025,9.7,174,9432
+259,Movie_259,Drama,Raj Mehta,Spanish,2020,4.8,113,3084
+260,Movie_260,Comedy,Arjun Gupta,English,2007,6.3,95,1799
+261,Movie_261,"Drama, Thriller, Romance",Rahul Verma,French,2015,5.2,165,2541
+262,Movie_262,Comedy,Raj Mehta,English,2007,7.6,167,1494
+263,Movie_263,"Romance, Sci-Fi, Action",Arjun Gupta,English,2021,4.6,128,3312
+264,Movie_264,"Sci-Fi, Thriller, Action",Rahul Verma,French,2002,5.8,161,7152
+265,Movie_265,Fantasy,Raj Mehta,English,2003,3.7,97,3130
+266,Movie_266,"Fantasy, Action, Romance",Ankit Sharma,French,2015,9.4,113,1308
+267,Movie_267,"Romance, Thriller",Neha Kapoor,French,2019,1.2,151,7053
+268,Movie_268,Fantasy,Neha Kapoor,English,2001,3.4,136,8579
+269,Movie_269,"Sci-Fi, Romance, Comedy",Raj Mehta,French,2004,6.6,154,3762
+270,Movie_270,"Fantasy, Adventure, Action",Ankit Sharma,English,2025,3.2,157,2440
+271,Movie_271,"Thriller, Drama",Priya Singh,Hindi,2005,1.8,110,4565
+272,Movie_272,"Fantasy, Action",Priya Singh,Hindi,2001,4.3,94,2279
+273,Movie_273,"Drama, Sci-Fi",Ankit Sharma,French,2005,8.5,132,5072
+274,Movie_274,"Sci-Fi, Drama",Priya Singh,French,2023,4.8,177,1167
+275,Movie_275,"Romance, Comedy, Thriller",Ankit Sharma,English,2024,4.3,99,6859
+276,Movie_276,"Adventure, Romance",Ankit Sharma,Spanish,2003,1.1,80,8008
+277,Movie_277,"Comedy, Sci-Fi, Action",Arjun Gupta,Spanish,2008,4.5,147,7385
+278,Movie_278,"Action, Comedy, Fantasy",Ankit Sharma,English,2004,4.9,103,655
+279,Movie_279,"Drama, Thriller",Neha Kapoor,English,2017,5.1,118,1287
+280,Movie_280,"Comedy, Thriller, Adventure",Rahul Verma,Spanish,2024,6.5,111,338
+281,Movie_281,"Sci-Fi, Thriller, Action",Rahul Verma,Spanish,2009,7.6,83,3397
+282,Movie_282,"Action, Drama",Rahul Verma,English,2010,3.4,164,3188
+283,Movie_283,"Fantasy, Adventure, Thriller",Arjun Gupta,English,2010,7.2,134,415
+284,Movie_284,Comedy,Raj Mehta,English,2009,5.6,160,2156
+285,Movie_285,"Drama, Romance",Rahul Verma,English,2000,3.6,149,406
+286,Movie_286,Fantasy,Priya Singh,Spanish,2020,2.6,91,5219
+287,Movie_287,Sci-Fi,Raj Mehta,Spanish,2013,8.2,177,9618
+288,Movie_288,"Sci-Fi, Fantasy",Raj Mehta,French,2024,1.8,172,2282
+289,Movie_289,"Sci-Fi, Fantasy, Thriller",Arjun Gupta,French,2023,9.1,123,6456
+290,Movie_290,Fantasy,Ankit Sharma,Hindi,2023,4.2,129,1304
+291,Movie_291,Drama,Neha Kapoor,English,2007,7.9,88,9309
+292,Movie_292,Action,Raj Mehta,Hindi,2001,9.8,88,1972
+293,Movie_293,"Romance, Comedy",Rahul Verma,English,2019,5.3,110,7848
+294,Movie_294,"Drama, Fantasy",Rahul Verma,Hindi,2020,1.4,140,7593
+295,Movie_295,"Comedy, Adventure",Priya Singh,English,2005,5.9,180,2637
+296,Movie_296,Thriller,Arjun Gupta,Spanish,2006,2.7,135,963
+297,Movie_297,"Sci-Fi, Drama",Raj Mehta,English,2005,5.4,169,4974
+298,Movie_298,"Fantasy, Sci-Fi, Drama",Rahul Verma,English,2021,6.5,111,5829
+299,Movie_299,Fantasy,Rahul Verma,English,2019,5.2,116,9377
+300,Movie_300,"Comedy, Action",Rahul Verma,English,2022,8.2,132,6776
+301,Movie_301,"Romance, Action, Sci-Fi",Neha Kapoor,Spanish,2016,9.6,138,6555
+302,Movie_302,Thriller,Arjun Gupta,Hindi,2022,7.7,118,4757
+303,Movie_303,Thriller,Arjun Gupta,Spanish,2021,6.4,127,3349
+304,Movie_304,"Adventure, Drama",Arjun Gupta,French,2013,4.2,146,7125
+305,Movie_305,"Action, Sci-Fi",Priya Singh,French,2010,7.8,127,697
+306,Movie_306,"Sci-Fi, Thriller, Fantasy",Ankit Sharma,Hindi,2021,2.1,99,7391
+307,Movie_307,"Comedy, Romance, Action",Arjun Gupta,Hindi,2025,5.9,150,8753
+308,Movie_308,"Adventure, Comedy",Ankit Sharma,Hindi,2002,2.4,178,4314
+309,Movie_309,"Action, Comedy, Drama",Raj Mehta,Hindi,2017,3.3,116,5101
+310,Movie_310,"Action, Sci-Fi, Comedy",Rahul Verma,English,2012,2.3,119,9590
+311,Movie_311,"Fantasy, Action, Romance",Rahul Verma,Hindi,2004,7.1,142,2309
+312,Movie_312,Action,Ankit Sharma,English,2014,5.8,164,3388
+313,Movie_313,"Fantasy, Romance",Arjun Gupta,Hindi,2007,7.7,90,7984
+314,Movie_314,"Sci-Fi, Adventure",Priya Singh,Hindi,2002,9.4,125,4892
+315,Movie_315,Fantasy,Raj Mehta,Hindi,2018,3.1,129,3656
+316,Movie_316,Sci-Fi,Priya Singh,Spanish,2006,7.9,83,4475
+317,Movie_317,"Drama, Sci-Fi, Action",Ankit Sharma,English,2019,1.9,129,6889
+318,Movie_318,"Romance, Comedy, Action",Priya Singh,Hindi,2006,8.2,97,8054
+319,Movie_319,Comedy,Arjun Gupta,Spanish,2020,9.6,105,6342
+320,Movie_320,"Romance, Thriller",Arjun Gupta,Spanish,2002,6.2,114,8729
+321,Movie_321,"Adventure, Drama, Thriller",Priya Singh,Spanish,2024,3.6,147,8035
+322,Movie_322,"Romance, Adventure, Thriller",Raj Mehta,Spanish,2006,1.6,149,5070
+323,Movie_323,Fantasy,Ankit Sharma,French,2013,6.8,178,3687
+324,Movie_324,Thriller,Ankit Sharma,Spanish,2004,2.9,107,2982
+325,Movie_325,"Sci-Fi, Drama",Arjun Gupta,French,2010,10.0,99,9037
+326,Movie_326,Comedy,Arjun Gupta,English,2008,3.8,102,8008
+327,Movie_327,"Action, Sci-Fi",Priya Singh,Spanish,2012,9.5,83,6611
+328,Movie_328,"Adventure, Comedy",Neha Kapoor,English,2020,5.2,86,5051
+329,Movie_329,"Adventure, Romance",Neha Kapoor,English,2020,1.8,95,9748
+330,Movie_330,Fantasy,Neha Kapoor,English,2022,7.9,108,2503
+331,Movie_331,Fantasy,Arjun Gupta,Spanish,2010,5.0,109,147
+332,Movie_332,Adventure,Neha Kapoor,Hindi,2022,3.0,161,1053
+333,Movie_333,"Romance, Drama, Sci-Fi",Rahul Verma,Spanish,2010,4.0,94,501
+334,Movie_334,Adventure,Raj Mehta,English,2018,7.4,112,9019
+335,Movie_335,"Thriller, Comedy, Sci-Fi",Arjun Gupta,French,2024,9.5,167,9058
+336,Movie_336,"Action, Drama, Fantasy",Ankit Sharma,French,2016,6.1,93,5600
+337,Movie_337,"Action, Thriller",Priya Singh,English,2004,4.8,163,5774
+338,Movie_338,"Sci-Fi, Fantasy",Rahul Verma,Spanish,2014,9.5,151,4893
+339,Movie_339,"Sci-Fi, Comedy",Neha Kapoor,Hindi,2013,4.7,152,5252
+340,Movie_340,"Adventure, Thriller",Arjun Gupta,Spanish,2000,2.1,149,4276
+341,Movie_341,Adventure,Priya Singh,Hindi,2002,5.6,99,2504
+342,Movie_342,"Action, Adventure",Neha Kapoor,Spanish,2000,4.3,170,2442
+343,Movie_343,Action,Neha Kapoor,Spanish,2013,6.8,97,1766
+344,Movie_344,Thriller,Priya Singh,English,2009,7.6,148,3344
+345,Movie_345,Fantasy,Ankit Sharma,English,2012,6.8,180,7406
+346,Movie_346,"Sci-Fi, Romance, Drama",Raj Mehta,Hindi,2013,2.2,130,3483
+347,Movie_347,"Action, Comedy",Ankit Sharma,Hindi,2018,4.3,94,1730
+348,Movie_348,"Thriller, Drama",Raj Mehta,French,2001,7.6,101,574
+349,Movie_349,"Adventure, Comedy, Romance",Raj Mehta,Hindi,2011,4.9,164,7103
+350,Movie_350,"Fantasy, Thriller, Romance",Raj Mehta,English,2023,9.7,113,6388
+351,Movie_351,"Romance, Action",Priya Singh,Spanish,2021,10.0,152,505
+352,Movie_352,Drama,Rahul Verma,Hindi,2024,6.8,152,6618
+353,Movie_353,"Comedy, Thriller, Fantasy",Arjun Gupta,Spanish,2024,2.5,95,6114
+354,Movie_354,Comedy,Raj Mehta,Spanish,2003,7.9,104,7148
+355,Movie_355,"Action, Romance",Priya Singh,Hindi,2025,5.9,101,2532
+356,Movie_356,Action,Ankit Sharma,French,2003,1.9,152,8312
+357,Movie_357,"Fantasy, Action",Raj Mehta,Spanish,2007,4.6,125,4037
+358,Movie_358,"Fantasy, Action",Arjun Gupta,Spanish,2015,4.6,155,7457
+359,Movie_359,"Fantasy, Action",Neha Kapoor,Hindi,2017,7.9,166,4894
+360,Movie_360,"Action, Adventure, Thriller",Rahul Verma,English,2000,9.4,112,779
+361,Movie_361,Drama,Neha Kapoor,Hindi,2006,3.3,158,7212
+362,Movie_362,"Action, Comedy, Sci-Fi",Neha Kapoor,French,2015,5.8,160,9276
+363,Movie_363,"Action, Thriller",Arjun Gupta,French,2000,3.8,124,3925
+364,Movie_364,Sci-Fi,Neha Kapoor,English,2017,2.0,158,6840
+365,Movie_365,"Comedy, Thriller",Raj Mehta,Spanish,2007,3.9,125,2939
+366,Movie_366,Comedy,Arjun Gupta,French,2015,3.4,100,5967
+367,Movie_367,"Action, Drama",Arjun Gupta,English,2010,5.1,86,7361
+368,Movie_368,"Fantasy, Action",Raj Mehta,French,2024,3.4,133,7879
+369,Movie_369,Comedy,Arjun Gupta,French,2009,9.7,114,4560
+370,Movie_370,"Drama, Thriller, Romance",Raj Mehta,French,2024,9.1,101,5409
+371,Movie_371,"Adventure, Thriller, Action",Raj Mehta,English,2004,6.6,132,4767
+372,Movie_372,Fantasy,Priya Singh,Hindi,2016,4.3,89,2490
+373,Movie_373,"Thriller, Drama",Raj Mehta,Spanish,2024,5.3,89,164
+374,Movie_374,Fantasy,Neha Kapoor,English,2010,3.6,176,5352
+375,Movie_375,"Sci-Fi, Romance",Arjun Gupta,Spanish,2015,2.2,171,4850
+376,Movie_376,Comedy,Neha Kapoor,Spanish,2003,5.1,115,9569
+377,Movie_377,"Thriller, Adventure",Ankit Sharma,French,2017,7.0,125,4495
+378,Movie_378,"Sci-Fi, Action",Raj Mehta,Hindi,2023,8.1,113,6733
+379,Movie_379,Romance,Rahul Verma,English,2009,6.8,177,3970
+380,Movie_380,"Fantasy, Sci-Fi, Thriller",Rahul Verma,Spanish,2018,2.8,127,5996
+381,Movie_381,"Action, Sci-Fi",Ankit Sharma,Hindi,2021,2.6,154,8686
+382,Movie_382,"Drama, Adventure, Thriller",Priya Singh,Spanish,2008,3.7,135,814
+383,Movie_383,"Sci-Fi, Adventure, Romance",Rahul Verma,French,2018,1.2,174,5745
+384,Movie_384,Thriller,Ankit Sharma,English,2000,3.1,164,2927
+385,Movie_385,"Romance, Sci-Fi",Arjun Gupta,French,2021,1.9,133,9860
+386,Movie_386,"Comedy, Fantasy",Neha Kapoor,Spanish,2013,6.8,124,7952
+387,Movie_387,Comedy,Neha Kapoor,Spanish,2021,6.3,122,7176
+388,Movie_388,Fantasy,Ankit Sharma,Hindi,2024,9.0,166,8986
+389,Movie_389,Adventure,Rahul Verma,Spanish,2010,3.6,143,6030
+390,Movie_390,Thriller,Raj Mehta,Hindi,2004,9.9,172,9312
+391,Movie_391,"Adventure, Fantasy, Drama",Neha Kapoor,French,2007,8.8,154,9037
+392,Movie_392,"Action, Sci-Fi",Neha Kapoor,English,2020,9.1,135,9896
+393,Movie_393,"Comedy, Sci-Fi, Romance",Priya Singh,Spanish,2013,4.4,162,6349
+394,Movie_394,"Drama, Fantasy",Ankit Sharma,Spanish,2020,6.2,106,9306
+395,Movie_395,Thriller,Arjun Gupta,Hindi,2021,9.6,131,9216
+396,Movie_396,"Thriller, Comedy",Rahul Verma,English,2013,3.3,112,3794
+397,Movie_397,"Drama, Fantasy, Romance",Ankit Sharma,English,2012,2.6,165,3536
+398,Movie_398,"Comedy, Drama",Rahul Verma,Hindi,2003,2.1,106,6290
+399,Movie_399,"Adventure, Sci-Fi, Comedy",Priya Singh,French,2021,7.0,108,5221
+400,Movie_400,Fantasy,Arjun Gupta,Hindi,2005,9.2,113,8383
+401,Movie_401,"Thriller, Action",Raj Mehta,English,2022,9.3,104,8004
+402,Movie_402,"Comedy, Fantasy",Arjun Gupta,English,2006,5.1,149,775
+403,Movie_403,"Comedy, Fantasy, Sci-Fi",Ankit Sharma,Hindi,2016,7.7,105,5961
+404,Movie_404,"Drama, Thriller, Romance",Rahul Verma,Hindi,2015,8.2,165,8182
+405,Movie_405,"Drama, Sci-Fi, Romance",Ankit Sharma,Spanish,2014,1.6,142,9514
+406,Movie_406,Sci-Fi,Raj Mehta,Spanish,2005,5.2,126,6303
+407,Movie_407,Comedy,Raj Mehta,French,2005,1.5,144,5874
+408,Movie_408,"Adventure, Drama",Arjun Gupta,English,2015,2.4,172,4443
+409,Movie_409,"Action, Drama",Priya Singh,Hindi,2000,1.6,125,8735
+410,Movie_410,Comedy,Priya Singh,English,2014,4.4,93,4340
+411,Movie_411,Adventure,Raj Mehta,Spanish,2002,6.7,101,6033
+412,Movie_412,"Comedy, Thriller, Action",Neha Kapoor,Spanish,2001,1.7,96,8671
+413,Movie_413,Action,Priya Singh,English,2008,4.3,142,9401
+414,Movie_414,"Drama, Adventure",Rahul Verma,Hindi,2024,3.9,165,5045
+415,Movie_415,"Drama, Sci-Fi, Romance",Priya Singh,English,2012,4.7,149,4290
+416,Movie_416,Romance,Arjun Gupta,Spanish,2000,2.3,107,125
+417,Movie_417,"Thriller, Action",Arjun Gupta,Hindi,2009,7.8,102,3585
+418,Movie_418,"Adventure, Drama, Thriller",Neha Kapoor,French,2014,7.4,131,7956
+419,Movie_419,Thriller,Raj Mehta,French,2011,3.2,165,1648
+420,Movie_420,"Drama, Fantasy",Neha Kapoor,Spanish,2007,3.3,172,3610
+421,Movie_421,"Romance, Sci-Fi",Priya Singh,English,2004,7.3,97,3564
+422,Movie_422,Comedy,Arjun Gupta,Spanish,2000,9.0,111,6033
+423,Movie_423,"Sci-Fi, Adventure, Action",Ankit Sharma,Spanish,2008,5.3,132,9563
+424,Movie_424,Action,Arjun Gupta,Spanish,2009,2.7,109,9309
+425,Movie_425,"Action, Romance",Ankit Sharma,English,2008,4.4,105,2839
+426,Movie_426,Fantasy,Arjun Gupta,Spanish,2016,2.5,108,9426
+427,Movie_427,Drama,Neha Kapoor,English,2014,1.4,126,4302
+428,Movie_428,"Thriller, Drama, Fantasy",Ankit Sharma,Spanish,2011,6.9,114,3040
+429,Movie_429,"Romance, Thriller, Adventure",Neha Kapoor,English,2016,6.2,179,4508
+430,Movie_430,"Sci-Fi, Comedy, Thriller",Neha Kapoor,English,2002,4.8,99,4772
+431,Movie_431,Fantasy,Neha Kapoor,Spanish,2017,4.3,99,1208
+432,Movie_432,Comedy,Arjun Gupta,Spanish,2011,4.8,142,6320
+433,Movie_433,"Fantasy, Thriller, Sci-Fi",Neha Kapoor,French,2022,2.8,93,2179
+434,Movie_434,"Comedy, Drama, Fantasy",Rahul Verma,French,2025,9.7,112,644
+435,Movie_435,"Romance, Action",Neha Kapoor,Hindi,2013,8.6,142,8018
+436,Movie_436,Drama,Raj Mehta,Spanish,2011,9.2,135,3957
+437,Movie_437,"Comedy, Romance, Thriller",Arjun Gupta,Hindi,2013,6.8,165,9701
+438,Movie_438,"Comedy, Action, Fantasy",Priya Singh,French,2011,6.0,179,6021
+439,Movie_439,"Fantasy, Adventure, Comedy",Ankit Sharma,French,2014,6.0,96,3495
+440,Movie_440,"Adventure, Drama, Thriller",Raj Mehta,English,2018,1.8,165,2458
+441,Movie_441,"Action, Comedy, Thriller",Ankit Sharma,Hindi,2018,6.6,118,190
+442,Movie_442,"Action, Sci-Fi",Raj Mehta,Hindi,2022,4.4,104,1038
+443,Movie_443,"Action, Sci-Fi",Raj Mehta,Hindi,2005,3.5,157,5618
+444,Movie_444,"Romance, Fantasy",Rahul Verma,French,2014,1.1,169,3162
+445,Movie_445,"Thriller, Romance, Sci-Fi",Rahul Verma,Hindi,2012,4.4,165,8365
+446,Movie_446,"Comedy, Sci-Fi",Ankit Sharma,English,2003,7.8,126,6102
+447,Movie_447,"Action, Sci-Fi, Drama",Rahul Verma,Hindi,2014,2.7,130,4966
+448,Movie_448,Thriller,Neha Kapoor,Hindi,2013,7.9,111,7911
+449,Movie_449,"Action, Romance, Fantasy",Ankit Sharma,English,2014,5.9,92,5342
+450,Movie_450,"Romance, Adventure",Neha Kapoor,French,2018,7.3,101,4490
+451,Movie_451,"Fantasy, Drama, Comedy",Ankit Sharma,Hindi,2003,8.9,168,2991
+452,Movie_452,"Romance, Sci-Fi, Thriller",Rahul Verma,French,2001,7.0,84,3514
+453,Movie_453,Fantasy,Arjun Gupta,Hindi,2016,3.6,127,7622
+454,Movie_454,"Comedy, Adventure, Fantasy",Ankit Sharma,French,2025,2.4,143,6818
+455,Movie_455,"Action, Thriller",Arjun Gupta,French,2011,1.4,165,3499
+456,Movie_456,Action,Raj Mehta,English,2017,1.4,80,4192
+457,Movie_457,"Drama, Comedy, Fantasy",Arjun Gupta,Spanish,2007,4.6,142,5419
+458,Movie_458,Romance,Raj Mehta,Hindi,2008,4.9,101,3324
+459,Movie_459,Comedy,Ankit Sharma,French,2002,9.5,142,5719
+460,Movie_460,"Adventure, Romance, Drama",Priya Singh,English,2007,3.1,170,1388
+461,Movie_461,"Comedy, Romance, Sci-Fi",Priya Singh,French,2016,1.6,167,9295
+462,Movie_462,"Fantasy, Adventure, Romance",Priya Singh,French,2023,8.6,113,1174
+463,Movie_463,"Sci-Fi, Romance, Drama",Ankit Sharma,Hindi,2017,4.9,85,2961
+464,Movie_464,"Adventure, Romance, Sci-Fi",Neha Kapoor,French,2017,7.7,102,120
+465,Movie_465,"Drama, Sci-Fi, Fantasy",Raj Mehta,French,2019,8.6,107,2564
+466,Movie_466,"Comedy, Sci-Fi",Neha Kapoor,Hindi,2025,6.5,168,5640
+467,Movie_467,"Thriller, Fantasy, Comedy",Rahul Verma,English,2004,2.7,105,4085
+468,Movie_468,"Comedy, Fantasy, Sci-Fi",Ankit Sharma,French,2022,9.3,131,6827
+469,Movie_469,"Thriller, Romance",Priya Singh,English,2003,4.2,120,5598
+470,Movie_470,"Adventure, Comedy, Thriller",Rahul Verma,English,2014,8.3,85,9606
+471,Movie_471,Adventure,Rahul Verma,Hindi,2009,4.9,153,5902
+472,Movie_472,"Fantasy, Romance",Priya Singh,Spanish,2016,6.5,106,8909
+473,Movie_473,"Drama, Romance",Ankit Sharma,English,2014,5.3,156,5777
+474,Movie_474,"Fantasy, Romance",Arjun Gupta,Spanish,2004,9.8,103,1792
+475,Movie_475,"Adventure, Comedy",Ankit Sharma,English,2002,8.2,145,6589
+476,Movie_476,"Romance, Action",Arjun Gupta,Spanish,2011,2.5,99,3430
+477,Movie_477,"Action, Thriller, Adventure",Arjun Gupta,French,2020,8.4,144,6280
+478,Movie_478,"Drama, Fantasy, Action",Neha Kapoor,French,2000,4.5,102,1212
+479,Movie_479,"Drama, Thriller",Priya Singh,Spanish,2020,7.0,173,9115
+480,Movie_480,"Romance, Action, Thriller",Raj Mehta,French,2008,9.0,132,7412
+481,Movie_481,"Romance, Thriller, Sci-Fi",Arjun Gupta,French,2020,6.1,99,5149
+482,Movie_482,"Drama, Romance",Rahul Verma,English,2012,9.7,94,9694
+483,Movie_483,Adventure,Neha Kapoor,English,2002,4.8,83,7219
+484,Movie_484,"Sci-Fi, Action, Comedy",Arjun Gupta,English,2020,5.0,157,711
+485,Movie_485,Adventure,Raj Mehta,Spanish,2002,1.6,100,7164
+486,Movie_486,"Thriller, Fantasy, Adventure",Priya Singh,French,2025,3.9,180,5634
+487,Movie_487,Thriller,Arjun Gupta,English,2013,3.0,95,8995
+488,Movie_488,"Comedy, Romance, Action",Neha Kapoor,Hindi,2025,9.6,96,80
+489,Movie_489,"Thriller, Sci-Fi, Drama",Raj Mehta,French,2023,1.9,82,1466
+490,Movie_490,"Thriller, Fantasy",Rahul Verma,Hindi,2014,4.7,119,5533
+491,Movie_491,Romance,Neha Kapoor,French,2007,9.3,81,3073
+492,Movie_492,"Action, Adventure, Comedy",Priya Singh,French,2017,2.7,108,1817
+493,Movie_493,"Fantasy, Action, Romance",Arjun Gupta,French,2008,7.1,148,7519
+494,Movie_494,Thriller,Neha Kapoor,French,2011,6.9,128,6278
+495,Movie_495,"Drama, Fantasy",Raj Mehta,French,2020,3.6,157,2087
+496,Movie_496,Action,Neha Kapoor,Spanish,2005,6.4,180,9233
+497,Movie_497,"Comedy, Fantasy",Priya Singh,Hindi,2010,4.7,151,2873
+498,Movie_498,Sci-Fi,Rahul Verma,Spanish,2017,3.0,139,4334
+499,Movie_499,Fantasy,Ankit Sharma,French,2007,3.9,110,2698
+500,Movie_500,"Sci-Fi, Action",Rahul Verma,Spanish,2002,6.7,80,2948
+501,Movie_501,Drama,Neha Kapoor,French,2012,6.6,143,5889
+502,Movie_502,"Fantasy, Drama",Arjun Gupta,French,2020,8.0,104,8126
+503,Movie_503,"Fantasy, Action, Thriller",Ankit Sharma,Hindi,2015,2.7,166,5450
+504,Movie_504,Adventure,Ankit Sharma,Hindi,2005,6.2,128,2816
+505,Movie_505,"Drama, Sci-Fi, Action",Raj Mehta,French,2024,7.0,176,1237
+506,Movie_506,Romance,Rahul Verma,Spanish,2004,3.7,119,9730
+507,Movie_507,"Sci-Fi, Thriller, Adventure",Neha Kapoor,French,2023,3.4,148,7201
+508,Movie_508,"Action, Sci-Fi, Fantasy",Ankit Sharma,Hindi,2012,3.4,96,4263
+509,Movie_509,"Drama, Fantasy",Raj Mehta,Hindi,2025,6.4,88,9289
+510,Movie_510,"Action, Romance, Drama",Rahul Verma,English,2020,2.9,177,5014
+511,Movie_511,"Comedy, Sci-Fi",Raj Mehta,Spanish,2010,1.2,85,3271
+512,Movie_512,Thriller,Neha Kapoor,Spanish,2014,3.9,138,8214
+513,Movie_513,Sci-Fi,Neha Kapoor,English,2019,5.6,164,4402
+514,Movie_514,"Sci-Fi, Drama, Adventure",Ankit Sharma,French,2014,9.5,138,8769
+515,Movie_515,"Sci-Fi, Comedy, Adventure",Arjun Gupta,French,2003,3.0,117,228
+516,Movie_516,"Adventure, Action",Rahul Verma,French,2022,5.4,95,1908
+517,Movie_517,"Sci-Fi, Adventure, Comedy",Neha Kapoor,English,2003,4.0,82,951
+518,Movie_518,"Adventure, Fantasy, Sci-Fi",Rahul Verma,Hindi,2023,8.1,179,5790
+519,Movie_519,Sci-Fi,Arjun Gupta,English,2011,3.4,123,6970
+520,Movie_520,"Thriller, Drama, Fantasy",Priya Singh,Hindi,2025,2.5,97,308
+521,Movie_521,Romance,Priya Singh,French,2022,5.6,163,9820
+522,Movie_522,"Comedy, Romance",Arjun Gupta,English,2013,2.0,170,8241
+523,Movie_523,Thriller,Raj Mehta,English,2013,3.3,113,2802
+524,Movie_524,Action,Arjun Gupta,Hindi,2011,2.4,154,8402
+525,Movie_525,"Drama, Fantasy",Neha Kapoor,Spanish,2013,3.1,151,6622
+526,Movie_526,"Drama, Sci-Fi, Action",Arjun Gupta,English,2010,5.6,85,3962
+527,Movie_527,"Comedy, Action",Arjun Gupta,Hindi,2012,1.7,80,8185
+528,Movie_528,Thriller,Neha Kapoor,French,2003,8.1,151,9868
+529,Movie_529,"Thriller, Fantasy, Sci-Fi",Rahul Verma,Hindi,2011,5.1,161,4347
+530,Movie_530,"Adventure, Sci-Fi",Raj Mehta,English,2020,8.2,180,1428
+531,Movie_531,"Sci-Fi, Comedy, Action",Neha Kapoor,French,2016,5.6,177,1375
+532,Movie_532,"Adventure, Fantasy, Drama",Neha Kapoor,English,2008,8.0,111,4277
+533,Movie_533,"Romance, Drama, Comedy",Raj Mehta,Hindi,2023,7.6,167,8018
+534,Movie_534,Adventure,Priya Singh,English,2015,6.2,140,5906
+535,Movie_535,Sci-Fi,Raj Mehta,Hindi,2023,7.7,153,1178
+536,Movie_536,"Romance, Comedy",Rahul Verma,Spanish,2013,4.9,159,8522
+537,Movie_537,Comedy,Priya Singh,English,2000,4.1,95,3252
+538,Movie_538,"Drama, Thriller, Adventure",Raj Mehta,English,2023,8.2,127,2185
+539,Movie_539,"Drama, Fantasy, Adventure",Ankit Sharma,French,2011,7.2,152,1324
+540,Movie_540,"Sci-Fi, Adventure, Drama",Raj Mehta,Hindi,2019,3.3,115,7448
+541,Movie_541,Romance,Raj Mehta,English,2007,4.6,143,621
+542,Movie_542,Thriller,Neha Kapoor,English,2009,7.4,176,1671
+543,Movie_543,"Adventure, Sci-Fi, Comedy",Priya Singh,Hindi,2010,7.1,104,6110
+544,Movie_544,"Fantasy, Action",Arjun Gupta,Spanish,2003,9.9,107,3371
+545,Movie_545,"Thriller, Fantasy, Action",Priya Singh,French,2023,2.0,166,3881
+546,Movie_546,"Comedy, Fantasy",Rahul Verma,Spanish,2008,1.0,127,9837
+547,Movie_547,"Fantasy, Comedy, Action",Priya Singh,Hindi,2010,9.8,108,8158
+548,Movie_548,Sci-Fi,Neha Kapoor,French,2020,7.4,149,2985
+549,Movie_549,"Drama, Fantasy",Raj Mehta,French,2022,7.5,97,934
+550,Movie_550,Action,Priya Singh,Hindi,2019,3.3,129,6579
+551,Movie_551,Fantasy,Raj Mehta,English,2014,9.9,94,5064
+552,Movie_552,Adventure,Priya Singh,Hindi,2017,8.9,137,6723
+553,Movie_553,"Adventure, Thriller",Arjun Gupta,English,2025,8.5,127,4017
+554,Movie_554,"Comedy, Thriller",Rahul Verma,English,2008,9.7,170,8434
+555,Movie_555,"Adventure, Action",Rahul Verma,English,2009,9.0,157,3375
+556,Movie_556,"Action, Adventure, Fantasy",Arjun Gupta,Spanish,2016,9.1,133,2933
+557,Movie_557,"Comedy, Drama",Neha Kapoor,Spanish,2020,1.8,118,9161
+558,Movie_558,Action,Priya Singh,English,2014,6.7,82,9088
+559,Movie_559,"Thriller, Romance, Drama",Raj Mehta,Hindi,2013,6.7,118,4170
+560,Movie_560,"Drama, Comedy",Arjun Gupta,Hindi,2025,5.5,176,4053
+561,Movie_561,Comedy,Ankit Sharma,Hindi,2004,3.9,121,5176
+562,Movie_562,"Comedy, Thriller, Drama",Arjun Gupta,French,2016,2.0,159,6487
+563,Movie_563,Comedy,Rahul Verma,Hindi,2009,1.7,94,8860
+564,Movie_564,Romance,Rahul Verma,Spanish,2021,1.2,166,4568
+565,Movie_565,"Romance, Comedy, Drama",Raj Mehta,English,2016,7.5,147,6798
+566,Movie_566,"Romance, Sci-Fi, Drama",Priya Singh,French,2019,5.8,126,3412
+567,Movie_567,Drama,Rahul Verma,Spanish,2006,5.2,177,9151
+568,Movie_568,"Sci-Fi, Fantasy, Thriller",Raj Mehta,French,2007,2.0,91,6338
+569,Movie_569,"Adventure, Action",Arjun Gupta,Hindi,2020,2.9,161,7770
+570,Movie_570,Sci-Fi,Arjun Gupta,French,2011,3.0,164,8926
+571,Movie_571,Fantasy,Neha Kapoor,Hindi,2010,8.4,90,3141
+572,Movie_572,"Comedy, Fantasy",Raj Mehta,Spanish,2024,9.6,89,8951
+573,Movie_573,Romance,Ankit Sharma,Spanish,2019,6.2,111,9725
+574,Movie_574,Action,Arjun Gupta,English,2009,3.4,162,6225
+575,Movie_575,"Thriller, Adventure, Drama",Rahul Verma,Hindi,2003,6.4,146,8406
+576,Movie_576,Action,Raj Mehta,French,2005,2.0,107,1180
+577,Movie_577,Action,Priya Singh,French,2007,2.8,99,8141
+578,Movie_578,"Sci-Fi, Comedy",Priya Singh,French,2015,6.6,141,7231
+579,Movie_579,"Thriller, Fantasy",Raj Mehta,Spanish,2025,6.0,107,5963
+580,Movie_580,Fantasy,Priya Singh,English,2001,3.9,99,3824
+581,Movie_581,"Action, Thriller",Ankit Sharma,Hindi,2010,4.1,98,5752
+582,Movie_582,"Drama, Comedy",Raj Mehta,French,2004,4.1,94,4778
+583,Movie_583,"Fantasy, Adventure, Action",Arjun Gupta,English,2009,6.8,101,7372
+584,Movie_584,"Adventure, Drama",Arjun Gupta,Hindi,2015,6.6,172,796
+585,Movie_585,"Romance, Fantasy, Action",Arjun Gupta,Hindi,2018,8.6,90,538
+586,Movie_586,Action,Neha Kapoor,Spanish,2002,7.7,88,4434
+587,Movie_587,Action,Neha Kapoor,French,2014,7.5,178,1385
+588,Movie_588,"Thriller, Adventure, Drama",Neha Kapoor,Hindi,2023,5.5,145,170
+589,Movie_589,"Sci-Fi, Comedy, Action",Neha Kapoor,Spanish,2016,1.9,124,8252
+590,Movie_590,"Action, Thriller",Arjun Gupta,Spanish,2003,7.6,171,2347
+591,Movie_591,Adventure,Arjun Gupta,French,2010,2.7,86,9551
+592,Movie_592,"Thriller, Adventure",Raj Mehta,Spanish,2025,7.2,139,2561
+593,Movie_593,"Drama, Thriller, Fantasy",Rahul Verma,English,2005,9.8,157,7666
+594,Movie_594,"Action, Drama",Neha Kapoor,Spanish,2021,5.6,121,6724
+595,Movie_595,"Thriller, Romance, Adventure",Ankit Sharma,Spanish,2025,1.1,94,1467
+596,Movie_596,"Fantasy, Action, Comedy",Priya Singh,English,2010,4.1,155,6000
+597,Movie_597,"Action, Drama, Adventure",Neha Kapoor,Spanish,2017,9.7,109,8135
+598,Movie_598,"Sci-Fi, Comedy",Rahul Verma,Hindi,2014,5.5,178,5763
+599,Movie_599,"Adventure, Romance",Priya Singh,French,2024,6.6,85,7084
+600,Movie_600,"Drama, Romance, Comedy",Arjun Gupta,Spanish,2015,2.1,98,7142
+601,Movie_601,Drama,Rahul Verma,English,2020,8.4,104,8047
+602,Movie_602,"Fantasy, Romance",Ankit Sharma,Hindi,2000,8.0,154,9724
+603,Movie_603,Fantasy,Arjun Gupta,English,2014,3.5,168,6390
+604,Movie_604,"Comedy, Adventure, Drama",Raj Mehta,French,2021,7.1,116,4206
+605,Movie_605,"Action, Sci-Fi",Raj Mehta,French,2018,2.6,112,6985
+606,Movie_606,Drama,Rahul Verma,French,2020,10.0,114,689
+607,Movie_607,Thriller,Priya Singh,Spanish,2012,9.6,143,2148
+608,Movie_608,Romance,Priya Singh,French,2024,5.0,134,6133
+609,Movie_609,"Sci-Fi, Comedy",Raj Mehta,French,2013,4.0,133,4888
+610,Movie_610,"Adventure, Drama, Romance",Priya Singh,Hindi,2022,3.2,110,3335
+611,Movie_611,"Fantasy, Sci-Fi, Drama",Priya Singh,Spanish,2011,1.3,82,8117
+612,Movie_612,"Fantasy, Thriller, Drama",Priya Singh,Hindi,2023,2.8,140,9937
+613,Movie_613,"Sci-Fi, Thriller",Rahul Verma,Spanish,2023,2.2,147,8983
+614,Movie_614,"Action, Sci-Fi, Romance",Ankit Sharma,Spanish,2002,8.8,85,3294
+615,Movie_615,"Comedy, Romance",Priya Singh,Hindi,2025,8.8,151,3435
+616,Movie_616,Sci-Fi,Rahul Verma,French,2023,6.7,171,4135
+617,Movie_617,Fantasy,Neha Kapoor,French,2004,9.2,88,9518
+618,Movie_618,"Thriller, Fantasy, Adventure",Priya Singh,Spanish,2007,5.3,141,3639
+619,Movie_619,Sci-Fi,Raj Mehta,Hindi,2020,8.0,136,7119
+620,Movie_620,"Sci-Fi, Thriller",Rahul Verma,English,2024,3.6,159,4498
+621,Movie_621,"Adventure, Romance",Neha Kapoor,French,2015,4.6,161,1068
+622,Movie_622,"Thriller, Sci-Fi, Comedy",Neha Kapoor,English,2015,4.4,119,8353
+623,Movie_623,Romance,Neha Kapoor,French,2023,4.8,116,6701
+624,Movie_624,"Comedy, Action",Ankit Sharma,Hindi,2004,6.0,165,1409
+625,Movie_625,"Adventure, Romance, Comedy",Ankit Sharma,Spanish,2011,6.8,163,6224
+626,Movie_626,"Action, Drama, Comedy",Priya Singh,English,2015,9.4,137,1063
+627,Movie_627,"Thriller, Adventure, Fantasy",Ankit Sharma,Hindi,2015,5.4,122,4085
+628,Movie_628,"Drama, Romance",Raj Mehta,French,2010,4.2,129,8271
+629,Movie_629,"Thriller, Comedy",Raj Mehta,Spanish,2017,4.5,104,6026
+630,Movie_630,Thriller,Raj Mehta,French,2016,6.2,159,8064
+631,Movie_631,"Comedy, Adventure, Sci-Fi",Arjun Gupta,French,2013,9.6,138,7281
+632,Movie_632,"Action, Drama",Arjun Gupta,French,2008,3.2,130,1963
+633,Movie_633,"Fantasy, Sci-Fi",Neha Kapoor,Hindi,2019,7.7,99,6966
+634,Movie_634,"Drama, Sci-Fi",Ankit Sharma,Hindi,2023,6.8,136,4162
+635,Movie_635,"Comedy, Thriller, Romance",Raj Mehta,Hindi,2016,6.1,128,2505
+636,Movie_636,"Romance, Sci-Fi, Thriller",Rahul Verma,French,2001,7.0,82,1378
+637,Movie_637,"Fantasy, Sci-Fi",Ankit Sharma,English,2017,9.8,133,3085
+638,Movie_638,Sci-Fi,Raj Mehta,French,2004,8.2,132,9273
+639,Movie_639,"Thriller, Action, Drama",Priya Singh,English,2000,7.0,131,7721
+640,Movie_640,"Fantasy, Drama",Neha Kapoor,Hindi,2000,9.1,121,5734
+641,Movie_641,"Fantasy, Action",Priya Singh,Spanish,2015,2.0,124,6790
+642,Movie_642,Romance,Arjun Gupta,Spanish,2010,4.4,171,5281
+643,Movie_643,"Fantasy, Action",Rahul Verma,English,2008,4.9,137,9502
+644,Movie_644,Fantasy,Arjun Gupta,Spanish,2015,9.6,142,3593
+645,Movie_645,"Comedy, Thriller, Adventure",Raj Mehta,Hindi,2008,9.4,134,4550
+646,Movie_646,"Action, Fantasy",Priya Singh,French,2014,3.9,169,7339
+647,Movie_647,"Drama, Sci-Fi",Neha Kapoor,English,2015,8.0,87,6788
+648,Movie_648,"Drama, Romance",Ankit Sharma,Spanish,2004,1.4,143,8504
+649,Movie_649,Sci-Fi,Ankit Sharma,French,2019,8.9,112,6368
+650,Movie_650,"Action, Comedy",Raj Mehta,Hindi,2014,2.9,127,3531
+651,Movie_651,"Action, Fantasy",Neha Kapoor,French,2022,9.6,143,1585
+652,Movie_652,"Adventure, Drama, Romance",Ankit Sharma,English,2002,3.8,111,9962
+653,Movie_653,"Comedy, Thriller, Adventure",Rahul Verma,English,2006,1.0,81,4646
+654,Movie_654,"Drama, Fantasy",Ankit Sharma,Spanish,2019,7.3,179,4444
+655,Movie_655,Romance,Priya Singh,Spanish,2005,4.6,126,9215
+656,Movie_656,"Fantasy, Drama, Adventure",Rahul Verma,Hindi,2011,8.6,163,4738
+657,Movie_657,Action,Neha Kapoor,Spanish,2016,3.9,121,2855
+658,Movie_658,Fantasy,Priya Singh,Spanish,2021,3.3,129,4875
+659,Movie_659,"Adventure, Comedy",Neha Kapoor,French,2025,2.6,151,9979
+660,Movie_660,"Sci-Fi, Thriller",Priya Singh,Spanish,2024,6.3,98,6910
+661,Movie_661,"Adventure, Thriller, Romance",Neha Kapoor,Spanish,2016,7.7,129,4262
+662,Movie_662,"Fantasy, Comedy",Ankit Sharma,French,2000,7.6,171,126
+663,Movie_663,"Romance, Adventure",Priya Singh,French,2008,7.1,170,9864
+664,Movie_664,"Fantasy, Sci-Fi, Adventure",Arjun Gupta,English,2000,7.0,124,3420
+665,Movie_665,"Fantasy, Romance, Comedy",Priya Singh,Spanish,2016,1.3,178,1392
+666,Movie_666,"Comedy, Action",Arjun Gupta,Spanish,2002,4.0,101,5073
+667,Movie_667,"Romance, Action, Thriller",Raj Mehta,Hindi,2012,9.1,143,2747
+668,Movie_668,Sci-Fi,Rahul Verma,English,2006,2.8,129,8755
+669,Movie_669,"Drama, Sci-Fi",Ankit Sharma,French,2001,5.8,111,5228
+670,Movie_670,"Romance, Sci-Fi",Raj Mehta,Hindi,2023,5.2,149,5664
+671,Movie_671,Drama,Priya Singh,Hindi,2018,8.8,154,2255
+672,Movie_672,"Sci-Fi, Action, Romance",Neha Kapoor,French,2011,2.0,134,2039
+673,Movie_673,"Comedy, Adventure, Sci-Fi",Raj Mehta,Hindi,2010,4.8,89,7526
+674,Movie_674,"Thriller, Sci-Fi",Rahul Verma,English,2009,7.7,158,5767
+675,Movie_675,"Drama, Comedy, Adventure",Rahul Verma,French,2004,2.4,152,2827
+676,Movie_676,Action,Neha Kapoor,Spanish,2021,7.4,128,5318
+677,Movie_677,"Thriller, Comedy",Neha Kapoor,French,2009,1.7,102,1781
+678,Movie_678,"Romance, Comedy, Action",Priya Singh,Hindi,2004,6.1,112,8078
+679,Movie_679,"Thriller, Romance, Fantasy",Rahul Verma,English,2025,4.9,114,2034
+680,Movie_680,Action,Ankit Sharma,Spanish,2014,4.0,104,2729
+681,Movie_681,"Drama, Romance, Action",Rahul Verma,Spanish,2015,1.1,114,2740
+682,Movie_682,"Drama, Adventure",Rahul Verma,English,2024,2.8,87,4731
+683,Movie_683,Romance,Ankit Sharma,French,2015,8.2,174,6183
+684,Movie_684,Thriller,Rahul Verma,English,2014,2.0,175,5525
+685,Movie_685,"Thriller, Sci-Fi, Comedy",Ankit Sharma,Hindi,2018,3.0,160,1239
+686,Movie_686,"Drama, Comedy",Raj Mehta,English,2010,7.5,137,171
+687,Movie_687,Action,Rahul Verma,Hindi,2003,8.4,117,4474
+688,Movie_688,"Thriller, Romance, Drama",Rahul Verma,Spanish,2001,5.1,138,2637
+689,Movie_689,"Fantasy, Sci-Fi, Adventure",Ankit Sharma,French,2025,3.4,164,3908
+690,Movie_690,"Adventure, Fantasy",Priya Singh,English,2002,3.1,90,366
+691,Movie_691,Sci-Fi,Priya Singh,French,2001,2.0,82,9041
+692,Movie_692,Fantasy,Priya Singh,Hindi,2025,5.3,102,2514
+693,Movie_693,"Sci-Fi, Romance",Rahul Verma,French,2025,8.9,115,8692
+694,Movie_694,Adventure,Raj Mehta,English,2023,3.0,148,9085
+695,Movie_695,Comedy,Rahul Verma,English,2012,1.9,143,7320
+696,Movie_696,"Romance, Thriller",Ankit Sharma,Spanish,2018,1.2,133,7304
+697,Movie_697,Comedy,Arjun Gupta,English,2003,7.1,92,3111
+698,Movie_698,Thriller,Arjun Gupta,English,2022,9.7,156,1988
+699,Movie_699,"Thriller, Drama, Comedy",Neha Kapoor,Hindi,2013,4.1,117,8884
+700,Movie_700,"Action, Sci-Fi, Drama",Neha Kapoor,English,2023,3.2,87,5672
+701,Movie_701,Adventure,Arjun Gupta,English,2010,3.4,139,3148
+702,Movie_702,"Action, Adventure, Sci-Fi",Raj Mehta,Hindi,2022,3.8,180,2228
+703,Movie_703,"Drama, Sci-Fi, Adventure",Raj Mehta,Hindi,2008,2.1,162,9024
+704,Movie_704,"Fantasy, Thriller, Action",Priya Singh,English,2019,5.2,141,7860
+705,Movie_705,"Sci-Fi, Action, Drama",Arjun Gupta,Hindi,2011,3.8,142,1579
+706,Movie_706,"Drama, Romance",Raj Mehta,English,2018,1.9,173,7267
+707,Movie_707,Fantasy,Rahul Verma,Hindi,2024,4.1,112,7985
+708,Movie_708,Thriller,Rahul Verma,French,2024,6.4,89,8556
+709,Movie_709,"Thriller, Fantasy",Priya Singh,English,2009,2.0,104,3041
+710,Movie_710,Adventure,Priya Singh,French,2008,7.2,86,2043
+711,Movie_711,Drama,Priya Singh,French,2006,2.6,115,2045
+712,Movie_712,"Action, Sci-Fi, Adventure",Arjun Gupta,Hindi,2015,4.0,125,4955
+713,Movie_713,"Fantasy, Sci-Fi",Rahul Verma,Hindi,2014,8.1,128,2526
+714,Movie_714,Comedy,Ankit Sharma,Spanish,2003,2.1,80,5235
+715,Movie_715,Romance,Priya Singh,Hindi,2019,5.6,177,4670
+716,Movie_716,Action,Neha Kapoor,Spanish,2022,8.2,171,3892
+717,Movie_717,Fantasy,Arjun Gupta,French,2022,10.0,141,6862
+718,Movie_718,Thriller,Arjun Gupta,Hindi,2010,8.3,135,8968
+719,Movie_719,Thriller,Ankit Sharma,Spanish,2024,9.5,171,6676
+720,Movie_720,"Comedy, Action",Arjun Gupta,French,2005,8.5,127,6536
+721,Movie_721,Action,Raj Mehta,English,2015,8.0,92,7987
+722,Movie_722,Adventure,Ankit Sharma,English,2008,2.9,152,2721
+723,Movie_723,"Action, Fantasy, Drama",Raj Mehta,Spanish,2002,5.1,146,5703
+724,Movie_724,"Romance, Thriller, Sci-Fi",Ankit Sharma,Spanish,2004,3.3,127,5603
+725,Movie_725,"Romance, Comedy",Rahul Verma,French,2018,1.3,158,5913
+726,Movie_726,"Thriller, Fantasy, Sci-Fi",Raj Mehta,Spanish,2017,1.7,115,8906
+727,Movie_727,Action,Priya Singh,French,2009,6.7,152,3180
+728,Movie_728,Adventure,Rahul Verma,Spanish,2021,4.4,148,6759
+729,Movie_729,"Comedy, Thriller",Priya Singh,French,2001,3.4,160,9487
+730,Movie_730,"Adventure, Action",Priya Singh,Hindi,2002,9.4,152,136
+731,Movie_731,"Drama, Romance, Sci-Fi",Priya Singh,English,2010,6.5,108,5982
+732,Movie_732,"Drama, Sci-Fi",Rahul Verma,Spanish,2014,5.3,162,1909
+733,Movie_733,Comedy,Priya Singh,English,2022,3.6,89,1713
+734,Movie_734,"Action, Drama, Fantasy",Rahul Verma,French,2001,2.2,109,9806
+735,Movie_735,Romance,Rahul Verma,French,2019,9.2,160,3866
+736,Movie_736,"Drama, Romance, Comedy",Priya Singh,English,2000,1.9,144,18
+737,Movie_737,"Romance, Sci-Fi, Action",Ankit Sharma,French,2020,3.5,137,6122
+738,Movie_738,"Adventure, Action",Priya Singh,Hindi,2022,1.5,116,5447
+739,Movie_739,Drama,Raj Mehta,English,2015,7.5,168,2067
+740,Movie_740,Thriller,Raj Mehta,Hindi,2012,3.2,95,4995
+741,Movie_741,"Fantasy, Sci-Fi, Thriller",Priya Singh,Spanish,2018,6.7,167,225
+742,Movie_742,Adventure,Rahul Verma,English,2016,4.0,110,1349
+743,Movie_743,"Drama, Fantasy",Ankit Sharma,Hindi,2004,7.2,108,6532
+744,Movie_744,Drama,Raj Mehta,French,2016,2.5,128,3154
+745,Movie_745,"Romance, Adventure, Thriller",Priya Singh,Hindi,2001,8.9,103,7293
+746,Movie_746,Drama,Rahul Verma,Spanish,2017,6.8,146,7361
+747,Movie_747,"Adventure, Sci-Fi, Romance",Neha Kapoor,Spanish,2001,1.5,81,2070
+748,Movie_748,"Romance, Sci-Fi, Fantasy",Neha Kapoor,French,2000,2.6,171,459
+749,Movie_749,"Drama, Adventure, Sci-Fi",Rahul Verma,Spanish,2012,4.6,117,8967
+750,Movie_750,Fantasy,Ankit Sharma,Hindi,2011,7.0,117,4067
+751,Movie_751,"Drama, Adventure, Romance",Priya Singh,Hindi,2007,8.2,122,3956
+752,Movie_752,"Drama, Thriller",Ankit Sharma,French,2022,3.1,128,5014
+753,Movie_753,"Drama, Comedy",Arjun Gupta,French,2001,6.7,144,8162
+754,Movie_754,Comedy,Rahul Verma,Hindi,2002,7.2,80,6640
+755,Movie_755,"Romance, Action, Fantasy",Neha Kapoor,Hindi,2011,7.9,94,7342
+756,Movie_756,"Comedy, Fantasy, Sci-Fi",Arjun Gupta,Hindi,2024,1.1,128,3287
+757,Movie_757,Comedy,Neha Kapoor,French,2003,1.8,130,4769
+758,Movie_758,Romance,Raj Mehta,English,2007,9.7,142,5349
+759,Movie_759,"Drama, Romance, Action",Neha Kapoor,Spanish,2002,1.3,95,1928
+760,Movie_760,Thriller,Rahul Verma,English,2004,2.8,166,8960
+761,Movie_761,Romance,Ankit Sharma,English,2022,4.4,154,2918
+762,Movie_762,"Adventure, Fantasy, Comedy",Priya Singh,English,2001,9.9,104,5303
+763,Movie_763,"Action, Comedy, Sci-Fi",Neha Kapoor,Hindi,2004,1.2,166,1447
+764,Movie_764,Thriller,Priya Singh,English,2019,2.0,147,8278
+765,Movie_765,Drama,Arjun Gupta,French,2010,7.8,100,3668
+766,Movie_766,Comedy,Rahul Verma,Hindi,2001,5.0,167,8025
+767,Movie_767,"Thriller, Fantasy, Romance",Priya Singh,Hindi,2000,5.3,176,3600
+768,Movie_768,Thriller,Rahul Verma,French,2017,9.9,153,2298
+769,Movie_769,"Sci-Fi, Comedy, Action",Arjun Gupta,Hindi,2002,6.8,148,6981
+770,Movie_770,Action,Arjun Gupta,English,2007,8.2,97,5279
+771,Movie_771,Drama,Raj Mehta,French,2018,7.5,124,7518
+772,Movie_772,Fantasy,Arjun Gupta,French,2012,2.8,157,2638
+773,Movie_773,"Fantasy, Comedy",Arjun Gupta,French,2003,3.9,159,553
+774,Movie_774,Adventure,Arjun Gupta,English,2012,6.8,126,1018
+775,Movie_775,"Sci-Fi, Drama",Neha Kapoor,English,2015,2.5,153,5994
+776,Movie_776,"Action, Drama, Comedy",Raj Mehta,Hindi,2001,4.5,80,8460
+777,Movie_777,Action,Neha Kapoor,French,2023,1.1,83,2668
+778,Movie_778,"Drama, Romance, Adventure",Ankit Sharma,Spanish,2012,7.9,91,3577
+779,Movie_779,"Romance, Drama, Fantasy",Ankit Sharma,Spanish,2019,1.4,97,295
+780,Movie_780,"Comedy, Drama, Romance",Ankit Sharma,Hindi,2000,9.9,89,2496
+781,Movie_781,"Romance, Drama, Adventure",Arjun Gupta,English,2009,5.5,172,1860
+782,Movie_782,Action,Arjun Gupta,Hindi,2014,3.9,98,4196
+783,Movie_783,"Drama, Fantasy",Ankit Sharma,Hindi,2006,7.7,164,7376
+784,Movie_784,"Comedy, Thriller, Sci-Fi",Raj Mehta,English,2008,3.8,102,7028
+785,Movie_785,"Romance, Action, Drama",Raj Mehta,English,2020,1.6,126,7048
+786,Movie_786,"Thriller, Comedy, Action",Ankit Sharma,Hindi,2023,4.5,146,4738
+787,Movie_787,Comedy,Rahul Verma,Spanish,2007,6.0,82,3940
+788,Movie_788,"Thriller, Drama, Sci-Fi",Neha Kapoor,English,2005,1.7,117,84
+789,Movie_789,"Action, Drama, Fantasy",Rahul Verma,Hindi,2001,6.4,177,8269
+790,Movie_790,Fantasy,Raj Mehta,English,2004,4.8,139,8959
+791,Movie_791,"Romance, Sci-Fi",Rahul Verma,English,2009,4.4,161,7050
+792,Movie_792,"Adventure, Drama",Raj Mehta,Hindi,2022,2.4,107,4335
+793,Movie_793,"Sci-Fi, Fantasy",Ankit Sharma,Hindi,2025,9.3,123,6422
+794,Movie_794,Action,Priya Singh,Spanish,2025,1.0,142,5443
+795,Movie_795,Thriller,Arjun Gupta,French,2000,9.3,166,471
+796,Movie_796,Comedy,Neha Kapoor,English,2023,9.8,135,6131
+797,Movie_797,"Action, Adventure",Raj Mehta,English,2013,2.1,127,6378
+798,Movie_798,"Fantasy, Drama, Thriller",Ankit Sharma,Hindi,2010,2.6,169,3012
+799,Movie_799,Comedy,Arjun Gupta,French,2000,1.8,151,4402
+800,Movie_800,"Fantasy, Comedy, Adventure",Arjun Gupta,Hindi,2009,2.9,157,2149
+801,Movie_801,"Fantasy, Thriller",Raj Mehta,Spanish,2025,2.2,145,2715
+802,Movie_802,"Romance, Action, Adventure",Priya Singh,Spanish,2018,3.8,135,5667
+803,Movie_803,"Romance, Drama, Sci-Fi",Rahul Verma,English,2012,3.4,135,7479
+804,Movie_804,"Romance, Fantasy, Thriller",Priya Singh,English,2007,7.3,173,6772
+805,Movie_805,"Fantasy, Comedy, Thriller",Rahul Verma,Hindi,2013,8.3,170,257
+806,Movie_806,"Comedy, Action, Fantasy",Priya Singh,English,2011,1.9,169,9063
+807,Movie_807,Thriller,Arjun Gupta,English,2000,9.7,167,6523
+808,Movie_808,"Adventure, Fantasy, Sci-Fi",Rahul Verma,Spanish,2021,8.9,136,355
+809,Movie_809,"Adventure, Drama, Fantasy",Raj Mehta,English,2010,1.0,118,3139
+810,Movie_810,"Comedy, Thriller, Sci-Fi",Arjun Gupta,French,2011,7.5,118,9322
+811,Movie_811,"Comedy, Action, Drama",Raj Mehta,English,2016,3.8,167,7709
+812,Movie_812,Fantasy,Neha Kapoor,English,2014,9.3,174,8284
+813,Movie_813,Drama,Raj Mehta,Hindi,2017,7.5,161,5519
+814,Movie_814,Drama,Priya Singh,Spanish,2011,4.5,107,630
+815,Movie_815,"Fantasy, Romance",Neha Kapoor,Hindi,2010,9.5,168,6583
+816,Movie_816,"Fantasy, Action",Ankit Sharma,French,2009,9.9,153,9912
+817,Movie_817,"Adventure, Drama, Sci-Fi",Arjun Gupta,English,2014,5.2,129,5654
+818,Movie_818,"Thriller, Action, Sci-Fi",Priya Singh,Hindi,2000,2.7,144,5364
+819,Movie_819,"Romance, Fantasy, Sci-Fi",Arjun Gupta,Hindi,2002,1.6,82,4206
+820,Movie_820,Drama,Ankit Sharma,Spanish,2005,4.6,88,4986
+821,Movie_821,"Action, Adventure, Comedy",Rahul Verma,English,2025,3.7,165,1297
+822,Movie_822,"Fantasy, Comedy",Rahul Verma,Spanish,2011,4.3,91,2604
+823,Movie_823,"Fantasy, Drama, Sci-Fi",Raj Mehta,French,2004,6.2,164,207
+824,Movie_824,"Fantasy, Adventure, Romance",Rahul Verma,French,2023,5.0,143,8776
+825,Movie_825,"Action, Adventure",Priya Singh,Spanish,2003,9.8,89,5044
+826,Movie_826,Romance,Rahul Verma,Hindi,2024,8.1,176,2303
+827,Movie_827,"Fantasy, Thriller, Sci-Fi",Raj Mehta,French,2008,6.6,93,9361
+828,Movie_828,"Comedy, Fantasy, Drama",Priya Singh,Spanish,2013,1.9,102,951
+829,Movie_829,"Drama, Romance, Thriller",Priya Singh,Spanish,2019,6.7,85,8199
+830,Movie_830,Fantasy,Ankit Sharma,French,2024,7.1,115,7414
+831,Movie_831,Thriller,Priya Singh,Spanish,2010,7.7,104,1773
+832,Movie_832,"Adventure, Fantasy",Arjun Gupta,Hindi,2005,9.5,108,1655
+833,Movie_833,"Drama, Comedy",Ankit Sharma,French,2012,10.0,173,8516
+834,Movie_834,"Drama, Comedy",Neha Kapoor,Hindi,2017,2.7,98,4444
+835,Movie_835,"Drama, Adventure",Ankit Sharma,Hindi,2016,9.8,112,5545
+836,Movie_836,Sci-Fi,Rahul Verma,English,2018,3.7,103,947
+837,Movie_837,"Comedy, Drama, Romance",Neha Kapoor,Spanish,2014,7.7,149,4736
+838,Movie_838,"Adventure, Sci-Fi",Rahul Verma,Hindi,2018,5.0,87,987
+839,Movie_839,"Fantasy, Adventure",Neha Kapoor,Spanish,2001,3.9,139,4184
+840,Movie_840,"Comedy, Action, Sci-Fi",Raj Mehta,French,2025,2.1,121,485
+841,Movie_841,Action,Arjun Gupta,Spanish,2010,2.3,163,860
+842,Movie_842,"Comedy, Action, Drama",Neha Kapoor,English,2018,3.9,95,3941
+843,Movie_843,"Thriller, Action, Drama",Rahul Verma,English,2006,6.6,180,7582
+844,Movie_844,"Fantasy, Sci-Fi, Adventure",Neha Kapoor,Hindi,2013,2.2,135,9020
+845,Movie_845,"Fantasy, Adventure, Romance",Neha Kapoor,Hindi,2009,4.9,81,9626
+846,Movie_846,"Adventure, Sci-Fi, Thriller",Arjun Gupta,Spanish,2025,3.4,179,4105
+847,Movie_847,Fantasy,Neha Kapoor,Spanish,2007,6.3,113,5483
+848,Movie_848,"Adventure, Action, Thriller",Priya Singh,English,2012,7.6,123,6354
+849,Movie_849,"Fantasy, Action, Drama",Rahul Verma,English,2025,1.3,138,4243
+850,Movie_850,"Drama, Comedy, Adventure",Neha Kapoor,Spanish,2008,3.6,164,5192
+851,Movie_851,Romance,Ankit Sharma,Spanish,2012,5.6,132,4830
+852,Movie_852,Adventure,Raj Mehta,French,2008,5.2,137,6556
+853,Movie_853,"Fantasy, Romance, Drama",Neha Kapoor,Hindi,2023,8.9,117,1743
+854,Movie_854,Romance,Priya Singh,Spanish,2000,6.5,132,6436
+855,Movie_855,"Action, Adventure",Rahul Verma,Spanish,2023,5.2,118,9358
+856,Movie_856,"Thriller, Adventure, Comedy",Priya Singh,Hindi,2007,6.3,135,6158
+857,Movie_857,"Romance, Comedy",Ankit Sharma,French,2009,1.9,128,1688
+858,Movie_858,"Comedy, Adventure, Sci-Fi",Rahul Verma,English,2011,9.7,105,2789
+859,Movie_859,"Romance, Comedy, Fantasy",Priya Singh,Spanish,2009,2.1,102,6809
+860,Movie_860,"Fantasy, Comedy, Adventure",Arjun Gupta,Hindi,2018,3.3,102,3884
+861,Movie_861,Comedy,Rahul Verma,Hindi,2005,5.3,116,4563
+862,Movie_862,"Thriller, Action, Romance",Rahul Verma,Hindi,2008,9.4,86,4859
+863,Movie_863,Sci-Fi,Priya Singh,English,2017,8.1,155,3941
+864,Movie_864,"Romance, Comedy",Priya Singh,English,2003,4.5,152,454
+865,Movie_865,"Comedy, Action, Romance",Rahul Verma,English,2008,2.8,167,8008
+866,Movie_866,"Adventure, Thriller",Rahul Verma,English,2014,5.1,177,5945
+867,Movie_867,"Action, Fantasy",Neha Kapoor,French,2023,5.2,157,1127
+868,Movie_868,Romance,Raj Mehta,French,2000,2.0,101,4370
+869,Movie_869,"Adventure, Sci-Fi, Comedy",Raj Mehta,English,2020,2.9,163,5640
+870,Movie_870,"Action, Fantasy, Adventure",Priya Singh,French,2009,8.6,161,6577
+871,Movie_871,"Sci-Fi, Thriller, Action",Arjun Gupta,Hindi,2012,3.3,140,9717
+872,Movie_872,"Action, Romance",Arjun Gupta,English,2023,2.5,174,6565
+873,Movie_873,"Comedy, Action",Priya Singh,Hindi,2012,1.1,131,9168
+874,Movie_874,"Action, Romance",Ankit Sharma,English,2013,2.1,140,675
+875,Movie_875,"Fantasy, Comedy",Arjun Gupta,English,2013,3.2,125,8423
+876,Movie_876,Drama,Ankit Sharma,Hindi,2025,4.1,167,4508
+877,Movie_877,"Drama, Thriller",Neha Kapoor,English,2011,1.3,103,5120
+878,Movie_878,Thriller,Neha Kapoor,Hindi,2013,7.8,130,5908
+879,Movie_879,"Thriller, Drama",Neha Kapoor,French,2010,3.0,159,4419
+880,Movie_880,"Romance, Sci-Fi, Adventure",Arjun Gupta,Spanish,2011,7.0,81,4273
+881,Movie_881,Drama,Arjun Gupta,English,2023,7.7,164,5081
+882,Movie_882,Sci-Fi,Raj Mehta,French,2021,2.2,91,2676
+883,Movie_883,Thriller,Arjun Gupta,English,2015,6.2,105,1435
+884,Movie_884,Fantasy,Priya Singh,French,2014,9.0,81,4182
+885,Movie_885,"Fantasy, Drama, Sci-Fi",Raj Mehta,French,2003,3.8,169,7947
+886,Movie_886,Action,Arjun Gupta,Spanish,2019,2.3,135,178
+887,Movie_887,"Fantasy, Sci-Fi",Rahul Verma,French,2004,6.2,96,1073
+888,Movie_888,Romance,Priya Singh,Hindi,2008,10.0,174,9374
+889,Movie_889,"Thriller, Adventure, Action",Priya Singh,French,2025,1.2,91,8032
+890,Movie_890,"Romance, Comedy",Raj Mehta,Spanish,2021,4.1,106,2023
+891,Movie_891,Thriller,Arjun Gupta,French,2013,3.5,102,3374
+892,Movie_892,Thriller,Rahul Verma,French,2005,9.7,142,21
+893,Movie_893,"Drama, Sci-Fi, Action",Arjun Gupta,English,2014,3.8,152,3262
+894,Movie_894,Adventure,Priya Singh,French,2014,7.5,107,9888
+895,Movie_895,"Sci-Fi, Fantasy, Drama",Neha Kapoor,French,2000,1.9,176,1386
+896,Movie_896,Fantasy,Neha Kapoor,English,2006,1.7,120,6903
+897,Movie_897,"Drama, Fantasy",Arjun Gupta,Hindi,2023,6.6,125,2180
+898,Movie_898,Thriller,Arjun Gupta,English,2024,4.0,107,6564
+899,Movie_899,Thriller,Neha Kapoor,English,2017,2.6,178,4444
+900,Movie_900,"Thriller, Fantasy, Adventure",Neha Kapoor,English,2008,2.8,87,140
+901,Movie_901,"Fantasy, Drama, Thriller",Raj Mehta,Hindi,2014,3.3,147,3087
+902,Movie_902,"Romance, Adventure",Ankit Sharma,French,2022,3.6,133,5897
+903,Movie_903,Action,Rahul Verma,Spanish,2004,5.8,166,4125
+904,Movie_904,Comedy,Raj Mehta,Hindi,2004,7.7,170,6342
+905,Movie_905,"Thriller, Action",Priya Singh,Spanish,2005,2.1,118,351
+906,Movie_906,Action,Rahul Verma,Hindi,2005,7.3,162,4908
+907,Movie_907,"Thriller, Action",Priya Singh,French,2007,6.8,168,2193
+908,Movie_908,Action,Raj Mehta,Spanish,2008,4.8,126,8810
+909,Movie_909,"Adventure, Drama",Priya Singh,French,2013,3.2,140,1379
+910,Movie_910,"Comedy, Thriller, Sci-Fi",Raj Mehta,Spanish,2005,9.5,152,7416
+911,Movie_911,Drama,Neha Kapoor,English,2015,4.6,150,874
+912,Movie_912,"Action, Drama, Sci-Fi",Priya Singh,Spanish,2016,8.0,153,2963
+913,Movie_913,"Thriller, Adventure, Comedy",Arjun Gupta,French,2014,7.8,99,7515
+914,Movie_914,Fantasy,Arjun Gupta,English,2017,5.2,165,3613
+915,Movie_915,Fantasy,Rahul Verma,English,2003,3.1,178,512
+916,Movie_916,"Comedy, Romance",Priya Singh,English,2004,8.0,103,492
+917,Movie_917,"Drama, Action, Adventure",Arjun Gupta,Spanish,2010,2.6,177,9742
+918,Movie_918,Sci-Fi,Neha Kapoor,French,2011,9.4,162,1693
+919,Movie_919,"Comedy, Fantasy",Priya Singh,Spanish,2022,1.6,143,7844
+920,Movie_920,"Action, Thriller, Comedy",Neha Kapoor,Hindi,2024,8.5,154,1703
+921,Movie_921,Action,Priya Singh,English,2013,6.4,87,7626
+922,Movie_922,"Sci-Fi, Adventure",Raj Mehta,Spanish,2014,6.4,127,8748
+923,Movie_923,Thriller,Rahul Verma,Hindi,2019,2.0,172,1376
+924,Movie_924,"Sci-Fi, Drama, Fantasy",Neha Kapoor,Hindi,2012,9.3,101,6281
+925,Movie_925,"Drama, Thriller",Priya Singh,French,2020,9.7,130,1097
+926,Movie_926,Action,Raj Mehta,English,2010,6.8,149,5722
+927,Movie_927,Fantasy,Ankit Sharma,English,2018,8.7,114,2492
+928,Movie_928,Adventure,Neha Kapoor,French,2000,5.5,171,2923
+929,Movie_929,Adventure,Ankit Sharma,Spanish,2010,2.1,158,8701
+930,Movie_930,"Adventure, Action, Sci-Fi",Priya Singh,Hindi,2010,2.2,134,3158
+931,Movie_931,Comedy,Raj Mehta,Hindi,2017,7.9,106,1961
+932,Movie_932,Comedy,Priya Singh,English,2023,7.4,174,2530
+933,Movie_933,Romance,Ankit Sharma,English,2024,1.7,148,8276
+934,Movie_934,"Comedy, Sci-Fi, Thriller",Ankit Sharma,Spanish,2003,7.4,178,3064
+935,Movie_935,"Action, Sci-Fi, Thriller",Ankit Sharma,Hindi,2021,1.1,105,1239
+936,Movie_936,"Drama, Thriller, Fantasy",Ankit Sharma,French,2011,4.2,98,1253
+937,Movie_937,Thriller,Rahul Verma,Spanish,2004,4.5,174,3310
+938,Movie_938,"Action, Romance",Neha Kapoor,French,2025,6.8,145,718
+939,Movie_939,Comedy,Ankit Sharma,French,2007,2.2,154,9350
+940,Movie_940,"Adventure, Drama, Sci-Fi",Arjun Gupta,English,2022,6.9,176,802
+941,Movie_941,"Drama, Adventure, Sci-Fi",Raj Mehta,French,2013,1.3,111,5708
+942,Movie_942,Adventure,Ankit Sharma,Hindi,2014,2.9,86,8812
+943,Movie_943,"Thriller, Drama",Arjun Gupta,Spanish,2012,3.0,178,9877
+944,Movie_944,Action,Arjun Gupta,English,2023,5.1,136,9455
+945,Movie_945,"Comedy, Drama, Thriller",Priya Singh,French,2000,1.8,145,9928
+946,Movie_946,"Fantasy, Romance, Adventure",Arjun Gupta,French,2000,9.1,153,9083
+947,Movie_947,"Sci-Fi, Comedy",Ankit Sharma,Spanish,2001,1.9,161,5967
+948,Movie_948,Romance,Ankit Sharma,French,2003,6.9,171,829
+949,Movie_949,"Romance, Action, Sci-Fi",Priya Singh,English,2002,7.4,168,130
+950,Movie_950,Adventure,Priya Singh,Hindi,2001,7.4,109,982
+951,Movie_951,Fantasy,Raj Mehta,French,2023,9.8,137,7711
+952,Movie_952,"Romance, Fantasy, Thriller",Arjun Gupta,Hindi,2006,1.5,86,7439
+953,Movie_953,Romance,Ankit Sharma,French,2023,2.9,112,6271
+954,Movie_954,"Thriller, Adventure, Sci-Fi",Priya Singh,English,2016,4.1,101,3394
+955,Movie_955,"Comedy, Fantasy",Neha Kapoor,Hindi,2020,5.8,122,9904
+956,Movie_956,"Romance, Sci-Fi",Arjun Gupta,French,2011,7.3,106,2288
+957,Movie_957,Romance,Neha Kapoor,Hindi,2000,6.0,101,9787
+958,Movie_958,Drama,Neha Kapoor,French,2019,5.6,170,3812
+959,Movie_959,"Comedy, Drama",Priya Singh,Hindi,2017,7.1,91,2881
+960,Movie_960,"Romance, Sci-Fi, Comedy",Arjun Gupta,French,2013,7.6,159,1994
+961,Movie_961,"Action, Thriller, Romance",Ankit Sharma,French,2025,8.7,116,5146
+962,Movie_962,"Sci-Fi, Adventure, Comedy",Priya Singh,French,2023,8.4,150,2515
+963,Movie_963,"Fantasy, Romance, Action",Neha Kapoor,Hindi,2010,1.5,160,8
+964,Movie_964,"Romance, Fantasy, Drama",Rahul Verma,Spanish,2024,2.6,144,3034
+965,Movie_965,"Adventure, Comedy",Priya Singh,English,2004,3.8,119,916
+966,Movie_966,"Drama, Thriller, Adventure",Ankit Sharma,French,2015,2.8,150,6456
+967,Movie_967,Comedy,Rahul Verma,English,2004,6.8,89,1285
+968,Movie_968,Action,Neha Kapoor,Hindi,2015,6.0,122,7729
+969,Movie_969,"Romance, Sci-Fi",Neha Kapoor,English,2025,9.8,125,4849
+970,Movie_970,Sci-Fi,Raj Mehta,Spanish,2021,4.8,144,7314
+971,Movie_971,"Drama, Fantasy",Arjun Gupta,French,2005,8.2,124,5513
+972,Movie_972,"Romance, Action, Comedy",Ankit Sharma,Hindi,2019,9.4,147,4895
+973,Movie_973,"Romance, Sci-Fi, Adventure",Ankit Sharma,French,2019,1.6,93,1348
+974,Movie_974,"Drama, Action",Neha Kapoor,Spanish,2009,3.6,144,1417
+975,Movie_975,"Thriller, Fantasy, Adventure",Rahul Verma,Spanish,2004,9.5,131,957
+976,Movie_976,"Sci-Fi, Action",Raj Mehta,English,2011,3.6,116,3518
+977,Movie_977,"Drama, Comedy, Sci-Fi",Priya Singh,Hindi,2005,3.8,89,6459
+978,Movie_978,"Comedy, Fantasy, Drama",Priya Singh,French,2007,8.2,173,1502
+979,Movie_979,Romance,Ankit Sharma,Spanish,2001,9.9,158,1800
+980,Movie_980,Thriller,Priya Singh,Spanish,2022,4.9,134,8271
+981,Movie_981,"Action, Drama",Ankit Sharma,English,2012,7.5,148,5485
+982,Movie_982,"Adventure, Sci-Fi, Romance",Ankit Sharma,Hindi,2018,2.2,141,2247
+983,Movie_983,"Romance, Adventure",Rahul Verma,Hindi,2014,4.1,122,8679
+984,Movie_984,"Thriller, Fantasy",Ankit Sharma,Hindi,2025,6.0,100,2770
+985,Movie_985,Fantasy,Ankit Sharma,English,2018,7.3,133,9032
+986,Movie_986,"Drama, Romance, Sci-Fi",Neha Kapoor,English,2013,1.4,120,9843
+987,Movie_987,"Action, Adventure",Raj Mehta,English,2001,4.4,167,281
+988,Movie_988,"Drama, Sci-Fi",Ankit Sharma,Spanish,2021,8.2,156,1142
+989,Movie_989,"Thriller, Adventure",Neha Kapoor,Spanish,2024,1.9,174,5398
+990,Movie_990,"Action, Comedy, Drama",Raj Mehta,French,2017,1.5,104,5735
+991,Movie_991,Comedy,Raj Mehta,French,2018,5.9,85,78
+992,Movie_992,"Romance, Comedy, Fantasy",Rahul Verma,English,2007,2.1,134,2512
+993,Movie_993,"Romance, Comedy, Adventure",Priya Singh,French,2021,5.7,163,5612
+994,Movie_994,Sci-Fi,Raj Mehta,English,2022,4.3,137,9238
+995,Movie_995,"Adventure, Fantasy",Priya Singh,English,2000,8.7,83,3161
+996,Movie_996,Thriller,Priya Singh,Hindi,2016,8.4,172,4248
+997,Movie_997,"Action, Drama, Thriller",Arjun Gupta,English,2019,6.7,81,6085
+998,Movie_998,"Action, Fantasy",Neha Kapoor,Hindi,2022,6.8,150,1512
+999,Movie_999,"Adventure, Fantasy",Ankit Sharma,English,2007,5.4,95,7634
+1000,Movie_1000,"Action, Drama",Raj Mehta,Spanish,2013,1.6,161,7730
